@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<robot name="myfirst" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+<xacro:include filename="$(find urdf_tutorial)/urdf/bill/materials.xacro" />
+<xacro:include filename="$(find urdf_tutorial)/urdf/bill/base-bill.gazebo" />
+
+
+<link name="base_link">
+    <pose>0 0 0.1 0 0 0</pose>
+    <inertial>
+      <mass value="5"/>
+      <origin rpy="0 0 0" xyz="0 0 0.1"/>
+      <inertia ixx="0.0395416666667" ixy="0" ixz="0" iyy="0.106208333333" iyz="0" izz="0.106208333333"/>
+    </inertial>
+    <!-- rigid body -->
+    <collision name="colission_chassis">
+      <geometry>
+        <cylinder length="0.150" radius="0.25"/>
+      </geometry>
+    </collision>
+    <!-- visual body -->  
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <cylinder length="0.150" radius="0.25"/>
+      </geometry>
+      <material name="silver"/>
+    </visual>
+    
+   <!-- caster front wheel -->
+    <collision name="caster_front_wheel">
+      <origin rpy="0 0 0" xyz="0.216 0 -0.10"/>
+      <geometry>
+        <sphere radius="0.040"/>
+      </geometry>
+      <surface>
+        <friction>
+          <ode>
+            <mu>0</mu>
+            <mu2>0</mu2>
+            <slip1>1.0</slip1>
+            <slip2>1.0</slip2>
+          </ode>
+        </friction>
+      </surface>
+    </collision>
+    <visual name="caster_front_visual">
+      <origin rpy=" 0 0 0" xyz="0.216 0 -0.10"/>
+      <geometry>
+        <sphere radius="0.040"/>
+      </geometry>
+    </visual>
+    
+    <!-- caster back wheel -->
+    <collision name="caster_back_wheel">
+      <origin rpy="0 0 0" xyz="-0.216 0 -0.10"/>
+      <geometry>
+        <sphere radius="0.040"/>
+      </geometry>
+      <surface>
+        <friction>
+          <ode>
+            <mu>0</mu>
+            <mu2>0</mu2>
+            <slip1>1.0</slip1>
+            <slip2>1.0</slip2>
+          </ode>
+        </friction>
+      </surface>
+    </collision>
+    <visual name="caster_back_visual">
+      <origin rpy=" 0 0 0" xyz="-0.216 0 -0.10"/>
+      <geometry>
+        <sphere radius="0.040"/>
+      </geometry>
+    </visual> 
+</link>
+
+<!-- Right wheel -->
+<link name="link_right_wheel">
+    <inertial>
+      <mass value="0.2"/>
+      <origin rpy="0 1.5707 0" xyz="0 0 0"/>
+      <inertia ixx="0.000526666666667" ixy="0" ixz="0" iyy="0.000526666666667" iyz="0" izz="0.001"/>
+    </inertial>
+    <collision name="link_right_wheel_collision">
+      <origin rpy="0 1.5707 1.5707" xyz="0 0 0"/>
+      <geometry>
+        <cylinder length="0.06" radius="0.075"/>
+      </geometry>
+    </collision>
+    <visual name="link_right_wheel_visual">
+      <origin rpy="0 1.57 0" xyz="0 0 0"/>
+      <geometry>
+          <mesh filename="package://urdf_tutorial/meshes/right_tire.stl" scale="0.002 0.002 0.002"/>
+      </geometry>
+      <material name="black"/>
+    </visual>
+</link>
+
+<!-- joint right wheel -->
+<joint name="joint_right_wheel" type="continuous">
+    <origin rpy="0 0 0" xyz="0.0 0.162 -0.070"/>
+    <child link="link_right_wheel"/>
+    <parent link="base_link"/>
+    <axis rpy="0 0 0" xyz="0 1 0"/>
+    <limit effort="10000" velocity="1000"/>
+    <joint_properties damping="1.0" friction="1.0"/>
+</joint>
+
+<!-- left wheel -->
+<link name="link_left_wheel">
+    <inertial>
+      <mass value="0.2"/>
+      <origin rpy="0 1.5707 1.5707" xyz="0 0 0"/>
+      <inertia ixx="0.000526666666667" ixy="0" ixz="0" iyy="0.000526666666667" iyz="0" izz="0.001"/>
+    </inertial>
+    <collision name="link_left_wheel_collision">
+      <origin rpy="0 1.5707 1.5707" xyz="0 0 0"/>
+      <geometry>
+        <cylinder length="0.06" radius="0.075"/>
+      </geometry>
+    </collision>
+    <visual name="link_left_wheel_visual">
+      <origin rpy="0 1.57 0" xyz="0 0 0"/>
+      <geometry>
+          <mesh filename="package://urdf_tutorial/meshes/left_tire.stl" scale="0.002 0.002 0.002"/>
+      </geometry>
+      <material name="black"/>
+    </visual>
+</link>
+
+<!-- joint left wheel -->  
+<joint name="joint_left_wheel" type="continuous">
+    <origin rpy="0 0 0" xyz="0.0 -0.162 -0.070"/>
+    <child link="link_left_wheel"/>
+    <parent link="base_link"/>
+    <axis rpy="0 0 0" xyz="0 1 0"/>
+    <limit effort="10000" velocity="1000"/>
+    <joint_properties damping="1.0" friction="1.0"/>
+</joint>
+  
+
+<!-- haste 1 -->
+<link name="link_haste_1"> 
+    <inertial>
+      <mass value="0.2"/>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <inertia ixx="0.000526666666667" ixy="0" ixz="0" iyy="0.000526666666667" iyz="0" izz="0.001"/>
+    </inertial>
+    <collision name="link_hast_1_colission">
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.032 0.032 1.0"/>
+      </geometry>
+    </collision>
+    <visual name="link_hast_1_visual">
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.032 0.032 1.0"/>
+      </geometry>
+      <material name="silver"/>
+    </visual>
+</link> 
+<!-- joint hast 1 -->
+<joint name="joint_hast1" type="fixed">
+    <origin rpy="0 0 0" xyz="0.0 0.0 0.560"/>
+    <child link="link_haste_1"/>
+    <parent link="base_link"/>
+    <axis rpy="0 0 0" xyz="0 1 0"/>
+    <limit effort="10000" velocity="1000"/>
+    <joint_properties damping="1.0" friction="1.0"/>
+</joint>
+
+<!-- Elevator -->
+<link name="link_elevator">
+  <inertial>
+    <mass value="0.2"/>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <inertia ixx="0.000526666666667" ixy="0" ixz="0" iyy="0.000526666666667" iyz="0" izz="0.001"/>
+  </inertial>
+  <collision name="link_elevator_colission">
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <box size="0.032 0.032 0.70"/>
+    </geometry>
+  </collision>
+  <visual name="link_elevator_visual">
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <box size="0.032 0.032 0.75"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+</link>
+<!-- Joint elevator -->
+<joint name="joint_elevator" type="fixed">
+  <origin rpy="0 0 0" xyz="0.032 0 0.05"/>
+  <child link="link_elevator"/>
+  <parent link="link_haste_1"/>
+  <axis rpy="0 0 0" xyz="0 1 0"/>
+  <limit effort="10000" velocity="1000"/>
+  <joint_properties damping="1.0" friction="1.0"/>
+</joint>
+
+<!-- haste 2-->
+<link name="link_haste_2">
+  <inertial>
+    <mass value="0"/>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <inertia ixx="0.000526666666667" ixy="0" ixz="0" iyy="0.000526666666667" iyz="0" izz="0.001"/>
+  </inertial>
+  <collision name="link_haste_2_colission">
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <box size="0.032 0.032 0.40"/>
+    </geometry>
+  </collision>
+  <visual name="link_haste_2_visual">
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <box size="0.032 0.032 0.40"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+
+  <!-- Arm support -->
+  <collision name="arm support">
+    <origin rpy="0 1.5707 0" xyz="0.065 0 -0.17"/>
+    <geometry>
+      <box size="0.012 0.032 0.1"/>
+    </geometry>
+  </collision>
+  <visual name="arm support">
+    <origin rpy="0 1.5707 0" xyz="0.065 0 -0.17"/>
+    <geometry>
+      <box size="0.012 0.032 0.1"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+
+</link>
+<!-- Joint haste 2-->
+<joint name="joint_haste2" type="fixed">
+  <origin rpy="0 0 0" xyz="0.032 0 0.50"/>
+  <child link="link_haste_2"/>
+  <parent link="link_elevator"/>
+</joint>
+
+<!-- Link head -->
+<link name="head">
+  <collision name="head_colision">
+    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0"/>
+    <geometry>
+      <box size="0.1 0.2 0.1"/>
+    </geometry>
+  </collision>
+  <visual name="head_visual">
+    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 1.57"/>
+    <geometry>
+      <mesh filename="package://urdf_tutorial/meshes/NaoHeadV2.stl" scale="0.002 0.002 0.002"/>
+    </geometry>
+    <material name="silver">
+      
+    </material>
+  </visual>
+</link>
+<!-- Joint head -->
+<joint name="joint_head" type="fixed">
+  <origin xyz="0.15 -0.14 0.2" rpy="0.0 0.0 0.0"/>
+  <parent link="link_haste_2"/>
+  <child link="head"/>
+</joint>
+ 
+
+
+</robot>

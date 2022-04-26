@@ -1,0 +1,12926 @@
+
+MainOdom=================
+dt: 8.577e-06
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0501152
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499584
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500115
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499938
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500093
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500171
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499696
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500051
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499992
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500071
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500016
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499832
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500117
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500088
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499647
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500063
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499929
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500079
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500148
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499832
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499947
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500075
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499931
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050009
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.05002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499879
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499856
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500322
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499641
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500067
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050042
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499697
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049988
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499979
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500293
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499843
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500117
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499983
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499842
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499875
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500016
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500095
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499842
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500036
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050012
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500159
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049968
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500035
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499959
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500061
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500114
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500035
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499838
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500246
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499713
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500319
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499972
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500018
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499916
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499978
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499807
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500108
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499881
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500184
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499887
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499957
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500321
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499643
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500041
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499978
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050016
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499992
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499865
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500192
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499794
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500077
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500186
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499971
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500011
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499879
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499971
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500018
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499969
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499973
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500032
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499887
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499857
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500048
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049986
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499999
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499987
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499943
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499951
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500139
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500038
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500149
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500064
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499936
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499772
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499937
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499966
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500068
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500005
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500303
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499889
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500003
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.05
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049988
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500017
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050006
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499961
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499966
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499928
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500045
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500039
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499985
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500124
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499966
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500006
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499925
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500049
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499957
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499923
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500392
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499892
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499834
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499859
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500244
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499901
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499835
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500237
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499986
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499878
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500013
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500138
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499975
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500042
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499998
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499882
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499931
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500184
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499735
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500337
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499908
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499914
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500055
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500033
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499991
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049986
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499929
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500092
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499936
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499981
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499974
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500177
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500023
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499996
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499989
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049973
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500302
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049999
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499903
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499967
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500173
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499824
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500309
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499699
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500018
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499965
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499978
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500095
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500028
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500025
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499951
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499899
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499946
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500083
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499888
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499928
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499987
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500119
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500055
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499996
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500006
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499991
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.05
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500093
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499982
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499826
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500097
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499987
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500017
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499998
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499976
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500023
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499926
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500081
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499985
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500125
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499975
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499924
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499954
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500003
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500099
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499885
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500013
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499966
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500044
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500105
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500003
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499908
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499986
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499881
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500092
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499999
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499951
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499913
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500127
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499947
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499861
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500092
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500209
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049999
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499885
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500141
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499844
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500033
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500084
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500055
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499975
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500009
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500041
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499967
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499838
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500029
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499983
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499907
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499955
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499986
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500012
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499963
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050015
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049989
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499844
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500042
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500121
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499863
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500125
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500035
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499863
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499906
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500039
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500044
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499805
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500218
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500033
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500036
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499904
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500134
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049989
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499969
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499917
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499974
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500247
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499789
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499908
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500249
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499956
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500128
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049985
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499916
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500071
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499844
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499898
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500267
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499958
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500082
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500034
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499931
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500139
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499878
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050005
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499941
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500013
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500091
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500029
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499883
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500121
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499883
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500119
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499677
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500271
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499679
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500195
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500023
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500136
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499873
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500028
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499976
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500019
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500066
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499984
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499997
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500015
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499929
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499797
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050001
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499988
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 0
+currentT: 1475085773.708810089
+lastT: 0.000000000
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 1.47509e+09
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502931
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497353
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500017
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500013
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 1
+currentT: 1475085773.908849007
+lastT: 1475085773.708810089
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200039
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503459
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496492
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500011
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499908
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 2
+currentT: 1475085774.108817517
+lastT: 1475085773.908849007
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199969
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503692
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496307
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500003
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 3
+currentT: 1475085774.308815727
+lastT: 1475085774.108817517
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504351
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495647
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500099
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499806
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 4
+currentT: 1475085774.508820120
+lastT: 1475085774.308815727
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200004
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504995
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0494989
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050001
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499899
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 5
+currentT: 1475085774.708821841
+lastT: 1475085774.508820120
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504442
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495627
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500008
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499932
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 6
+currentT: 1475085774.908816084
+lastT: 1475085774.708821841
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199994
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503616
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496649
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500057
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499943
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 7
+currentT: 1475085775.108817188
+lastT: 1475085774.908816084
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502662
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497349
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499952
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500007
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 8
+currentT: 1475085775.308815991
+lastT: 1475085775.108817188
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199999
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503201
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496785
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499986
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500014
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 9
+currentT: 1475085775.508810320
+lastT: 1475085775.308815991
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199994
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502222
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497794
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500022
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499981
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 10
+currentT: 1475085775.708828810
+lastT: 1475085775.508810320
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200018
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.050436
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495601
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049997
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050001
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 11
+currentT: 1475085775.908804664
+lastT: 1475085775.708828810
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199976
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503528
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496454
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499992
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500038
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 12
+currentT: 1475085776.108803097
+lastT: 1475085775.908804664
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503991
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495796
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500147
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499871
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 13
+currentT: 1475085776.358796598
+lastT: 1475085776.108803097
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249994
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504451
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495665
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499879
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050027
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 14
+currentT: 1475085776.558812347
+lastT: 1475085776.358796598
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200016
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502484
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497403
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499978
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500055
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 15
+currentT: 1475085776.758799830
+lastT: 1475085776.558812347
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199987
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503217
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496612
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499976
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500189
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 16
+currentT: 1475085776.958814560
+lastT: 1475085776.758799830
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200015
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.050296
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497026
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049987
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500253
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 17
+currentT: 1475085777.158783191
+lastT: 1475085776.958814560
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199969
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0501567
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0498112
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500169
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500109
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 18
+currentT: 1475085777.358804506
+lastT: 1475085777.158783191
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200021
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503631
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496483
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499773
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499806
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 19
+currentT: 1475085777.558785951
+lastT: 1475085777.358804506
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199981
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0501911
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0498089
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050042
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 20
+currentT: 1475085777.758785296
+lastT: 1475085777.558785951
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199999
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503711
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496144
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050013
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499795
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 21
+currentT: 1475085777.958821124
+lastT: 1475085777.758785296
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200036
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503574
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496324
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500016
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 22
+currentT: 1475085778.158808994
+lastT: 1475085777.958821124
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199988
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.050492
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495314
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499901
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499839
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 23
+currentT: 1475085778.358812353
+lastT: 1475085778.158808994
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200003
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503154
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496865
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499864
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500332
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 24
+currentT: 1475085778.558803794
+lastT: 1475085778.358812353
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199991
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504297
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495611
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500087
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500008
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 25
+currentT: 1475085778.758795784
+lastT: 1475085778.558803794
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199992
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502093
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049765
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500001
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500124
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 26
+currentT: 1475085778.958803957
+lastT: 1475085778.758795784
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200008
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503287
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496682
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499897
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500029
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500018
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 27
+currentT: 1475085779.208803928
+lastT: 1475085778.958803957
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.25
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503385
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496777
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499961
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500096
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 28
+currentT: 1475085779.408814872
+lastT: 1475085779.208803928
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200011
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503068
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496805
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050013
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049999
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 29
+currentT: 1475085779.608810526
+lastT: 1475085779.408814872
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199996
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503357
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496568
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500031
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499772
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 30
+currentT: 1475085779.808816920
+lastT: 1475085779.608810526
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200006
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504679
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495601
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499737
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 31
+currentT: 1475085780.008816765
+lastT: 1475085779.808816920
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.2
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504404
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495591
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500019
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500015
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 32
+currentT: 1475085780.208816686
+lastT: 1475085780.008816765
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.2
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502878
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497237
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500138
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499772
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 33
+currentT: 1475085780.408849180
+lastT: 1475085780.208816686
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200032
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503512
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496616
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500093
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499894
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 34
+currentT: 1475085780.608795691
+lastT: 1475085780.408849180
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199947
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503989
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495844
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500066
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499913
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 35
+currentT: 1475085780.808811918
+lastT: 1475085780.608795691
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200016
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0507251
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0493085
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499725
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 36
+currentT: 1475085781.008825306
+lastT: 1475085780.808811918
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200013
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504113
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495964
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500245
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499943
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 37
+currentT: 1475085781.208813289
+lastT: 1475085781.008825306
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199988
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503724
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496205
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500178
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499673
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 38
+currentT: 1475085781.408823699
+lastT: 1475085781.208813289
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.20001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503296
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496887
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500071
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500056
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 39
+currentT: 1475085781.608792769
+lastT: 1475085781.408823699
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199969
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502921
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496923
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500073
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499931
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500022
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 40
+currentT: 1475085781.858793826
+lastT: 1475085781.608792769
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502274
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497777
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049989
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 41
+currentT: 1475085782.058818016
+lastT: 1475085781.858793826
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200024
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502764
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497395
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499957
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 42
+currentT: 1475085782.258806917
+lastT: 1475085782.058818016
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199989
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503162
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496617
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499973
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.05
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 43
+currentT: 1475085782.458833951
+lastT: 1475085782.258806917
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200027
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503665
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496572
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049993
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500143
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 44
+currentT: 1475085782.658811115
+lastT: 1475085782.458833951
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199977
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503299
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496553
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499616
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 45
+currentT: 1475085782.858816757
+lastT: 1475085782.658811115
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200006
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502162
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497939
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499807
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500058
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 46
+currentT: 1475085783.058791923
+lastT: 1475085782.858816757
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199975
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502395
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497717
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500119
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 47
+currentT: 1475085783.258788761
+lastT: 1475085783.058791923
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199997
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502654
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497301
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499925
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500093
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 48
+currentT: 1475085783.458810726
+lastT: 1475085783.258788761
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200022
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502322
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497665
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500012
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049998
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 49
+currentT: 1475085783.658807942
+lastT: 1475085783.458810726
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199997
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502416
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497573
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499928
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499994
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 50
+currentT: 1475085783.858809655
+lastT: 1475085783.658807942
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502896
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497178
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500017
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499907
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 51
+currentT: 1475085784.058809495
+lastT: 1475085783.858809655
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.2
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0501651
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0498464
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499998
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499877
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 52
+currentT: 1475085784.258810781
+lastT: 1475085784.058809495
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502814
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.04972
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500027
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500072
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 53
+currentT: 1475085784.458781223
+lastT: 1475085784.258810781
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.19997
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.050213
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497513
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500003
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500056
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 54
+currentT: 1475085784.708783241
+lastT: 1475085784.458781223
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502976
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497267
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499863
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499967
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 55
+currentT: 1475085784.908795089
+lastT: 1475085784.708783241
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200012
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502366
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049771
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500062
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499934
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 56
+currentT: 1475085785.108815353
+lastT: 1475085784.908795089
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.20002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.050396
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495948
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050022
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499881
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 57
+currentT: 1475085785.308819586
+lastT: 1475085785.108815353
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200004
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0505541
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0494479
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500052
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500256
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 58
+currentT: 1475085785.508815180
+lastT: 1475085785.308819586
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199996
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502786
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497004
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499981
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499928
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 59
+currentT: 1475085785.708813014
+lastT: 1475085785.508815180
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503829
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496168
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499942
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500165
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 60
+currentT: 1475085785.908808849
+lastT: 1475085785.708813014
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199996
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503831
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496171
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049982
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500169
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 61
+currentT: 1475085786.108809765
+lastT: 1475085785.908808849
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503135
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496746
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500141
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499933
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 62
+currentT: 1475085786.308812409
+lastT: 1475085786.108809765
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200003
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504621
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495438
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499786
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500275
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 63
+currentT: 1475085786.508780868
+lastT: 1475085786.308812409
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199968
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0501092
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0498528
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500032
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499961
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 64
+currentT: 1475085786.708787238
+lastT: 1475085786.508780868
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200006
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0501768
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0498297
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500012
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500133
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 65
+currentT: 1475085786.908802099
+lastT: 1475085786.708787238
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200015
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502783
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497194
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499888
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500243
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 66
+currentT: 1475085787.108811422
+lastT: 1475085786.908802099
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200009
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503319
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496668
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499876
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500305
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499848
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 67
+currentT: 1475085787.358819566
+lastT: 1475085787.108811422
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250008
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502967
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497028
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499975
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500094
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 68
+currentT: 1475085787.558817338
+lastT: 1475085787.358819566
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503016
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496892
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499991
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499797
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 69
+currentT: 1475085787.758834504
+lastT: 1475085787.558817338
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200017
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504677
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495437
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500072
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499882
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 70
+currentT: 1475085787.958827864
+lastT: 1475085787.758834504
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199993
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502731
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049726
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.049998
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500256
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 71
+currentT: 1475085788.158799243
+lastT: 1475085787.958827864
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199971
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503447
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496507
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499871
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500017
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 72
+currentT: 1475085788.358799815
+lastT: 1475085788.158799243
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503839
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495941
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500238
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499977
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 73
+currentT: 1475085788.558804397
+lastT: 1475085788.358799815
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200005
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503483
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496502
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499873
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500179
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 74
+currentT: 1475085788.758830828
+lastT: 1475085788.558804397
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200026
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503636
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496245
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499837
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500312
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 75
+currentT: 1475085788.958815425
+lastT: 1475085788.758830828
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199985
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502982
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496992
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500024
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499877
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 76
+currentT: 1475085789.158807607
+lastT: 1475085788.958815425
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199992
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502487
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497388
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500176
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500066
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 77
+currentT: 1475085789.358809948
+lastT: 1475085789.158807607
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502769
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497592
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499661
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499979
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 78
+currentT: 1475085789.558781901
+lastT: 1475085789.358809948
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199972
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502566
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497384
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499772
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500275
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 79
+currentT: 1475085789.758813905
+lastT: 1475085789.558781901
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200032
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502714
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497217
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500084
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499756
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 80
+currentT: 1475085789.958810452
+lastT: 1475085789.758813905
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199997
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0502689
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497289
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500293
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500105
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499781
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 81
+currentT: 1475085790.208808930
+lastT: 1475085789.958810452
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.05041
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495909
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500019
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500057
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 82
+currentT: 1475085790.408827136
+lastT: 1475085790.208808930
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200018
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0504376
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0495389
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499903
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.050003
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 83
+currentT: 1475085790.608777105
+lastT: 1475085790.408827136
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.19995
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0501438
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0498572
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500077
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500211
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 84
+currentT: 1475085790.808812752
+lastT: 1475085790.608777105
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200036
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.050263
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0497283
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500047
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500372
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 85
+currentT: 1475085791.008813924
+lastT: 1475085790.808812752
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0501466
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0498334
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0499889
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500005
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 86
+currentT: 1475085791.208829517
+lastT: 1475085791.008813924
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.200016
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+MainOdom=================
+dt: 0.0503356
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0496318
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500049
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+MainOdom=================
+dt: 0.0500324
+delta_x: 0
+delta_y: 0
+delta_th: 0
+x: 0
+y: 0
+th: 0
+
+
+Encoder=========================
+ocorrência: 87
+currentT: 1475085791.408815529
+lastT: 1475085791.208829517
+ticks_x: 6
+ticks_y: 7
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.199986
+deltaLeft: 6
+deltaRight: 7
+vx: 0.0418289
+vy: 0.0488003
+
+MainOdom=================
+dt: 0.0503307
+delta_x: 0.000171054
+delta_y: 0
+delta_th: 6.92525e-05
+x: 0.000171054
+y: 0
+th: 6.92525e-05
+
+
+MainOdom=================
+dt: 0.0496644
+delta_x: 0.000168789
+delta_y: 1.16891e-08
+delta_th: 6.83357e-05
+x: 0.000339843
+y: 1.16891e-08
+th: 0.000137588
+
+
+MainOdom=================
+dt: 0.0499798
+delta_x: 0.000169861
+delta_y: 2.33709e-08
+delta_th: 6.87697e-05
+x: 0.000509704
+y: 3.506e-08
+th: 0.000206358
+
+
+MainOdom=================
+dt: 0.0499874
+delta_x: 0.000169887
+delta_y: 3.50575e-08
+delta_th: 6.87802e-05
+x: 0.000679591
+y: 7.01175e-08
+th: 0.000275138
+
+
+Encoder=========================
+ocorrência: 88
+currentT: 1475085791.608782839
+lastT: 1475085791.408815529
+ticks_x: 15
+ticks_y: 18
+_PreviousLeftEncoderCounts: 6
+_PreviousRightEncoderCounts: 7
+deltatime: 0.199967
+deltaLeft: 9
+deltaRight: 11
+vx: 0.0627492
+vy: 0.0766934
+
+MainOdom=================
+dt: 0.0502382
+delta_x: 0.0002627
+delta_y: 7.22789e-08
+delta_th: 0.000138263
+x: 0.000942291
+y: 1.42396e-07
+th: 0.000413401
+
+
+MainOdom=================
+dt: 0.0497617
+delta_x: 0.000260209
+delta_y: 1.07571e-07
+delta_th: 0.000136952
+x: 0.0012025
+y: 2.49967e-07
+th: 0.000550353
+
+
+MainOdom=================
+dt: 0.0499994
+delta_x: 0.000261452
+delta_y: 1.43891e-07
+delta_th: 0.000137606
+x: 0.00146395
+y: 3.93858e-07
+th: 0.00068796
+
+
+MainOdom=================
+dt: 0.0500012
+delta_x: 0.000261461
+delta_y: 1.79875e-07
+delta_th: 0.000137611
+x: 0.00172541
+y: 5.73733e-07
+th: 0.000825571
+
+
+Encoder=========================
+ocorrência: 89
+currentT: 1475085791.808779386
+lastT: 1475085791.608782839
+ticks_x: 24
+ticks_y: 29
+_PreviousLeftEncoderCounts: 15
+_PreviousRightEncoderCounts: 18
+deltatime: 0.199997
+deltaLeft: 9
+deltaRight: 11
+vx: 0.06274
+vy: 0.0766822
+
+MainOdom=================
+dt: 0.0502278
+delta_x: 0.000262607
+delta_y: 2.16801e-07
+delta_th: 0.000138214
+x: 0.00198802
+y: 7.90533e-07
+th: 0.000963785
+
+
+MainOdom=================
+dt: 0.049773
+delta_x: 0.00026023
+delta_y: 2.50806e-07
+delta_th: 0.000136963
+x: 0.00224825
+y: 1.04134e-06
+th: 0.00110075
+
+
+MainOdom=================
+dt: 0.0499992
+delta_x: 0.000261412
+delta_y: 2.87749e-07
+delta_th: 0.000137585
+x: 0.00250966
+y: 1.32909e-06
+th: 0.00123833
+
+
+MainOdom=================
+dt: 0.0500014
+delta_x: 0.000261424
+delta_y: 3.2373e-07
+delta_th: 0.000137591
+x: 0.00277109
+y: 1.65282e-06
+th: 0.00137593
+
+
+Encoder=========================
+ocorrência: 90
+currentT: 1475085792.008817770
+lastT: 1475085791.808779386
+ticks_x: 35
+ticks_y: 40
+_PreviousLeftEncoderCounts: 24
+_PreviousRightEncoderCounts: 29
+deltatime: 0.200038
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766662
+vy: 0.0766662
+
+MainOdom=================
+dt: 0.0502616
+delta_x: 0.000289002
+delta_y: 3.97645e-07
+delta_th: 0
+x: 0.00306009
+y: 2.05046e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.0497961
+delta_x: 0.000286325
+delta_y: 3.93963e-07
+delta_th: 0
+x: 0.00334641
+y: 2.44443e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.0499734
+delta_x: 0.000287345
+delta_y: 3.95365e-07
+delta_th: 0
+x: 0.00363376
+y: 2.83979e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.049998
+delta_x: 0.000287486
+delta_y: 3.9556e-07
+delta_th: 0
+x: 0.00392124
+y: 3.23535e-06
+th: 0.00137593
+
+
+Encoder=========================
+ocorrência: 91
+currentT: 1475085792.208817171
+lastT: 1475085792.008817770
+ticks_x: 45
+ticks_y: 50
+_PreviousLeftEncoderCounts: 35
+_PreviousRightEncoderCounts: 40
+deltatime: 0.199999
+deltaLeft: 10
+deltaRight: 10
+vx: 0.0697101
+vy: 0.0697101
+
+MainOdom=================
+dt: 0.0503075
+delta_x: 0.00026302
+delta_y: 3.61896e-07
+delta_th: 0
+x: 0.00418426
+y: 3.59725e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.0496703
+delta_x: 0.000259689
+delta_y: 3.57313e-07
+delta_th: 0
+x: 0.00444395
+y: 3.95456e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.0500176
+delta_x: 0.000261505
+delta_y: 3.59811e-07
+delta_th: 0
+x: 0.00470546
+y: 4.31437e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.050001
+delta_x: 0.000261418
+delta_y: 3.59692e-07
+delta_th: 0
+x: 0.00496688
+y: 4.67406e-06
+th: 0.00137593
+
+
+Encoder=========================
+ocorrência: 92
+currentT: 1475085792.408807939
+lastT: 1475085792.208817171
+ticks_x: 56
+ticks_y: 61
+_PreviousLeftEncoderCounts: 45
+_PreviousRightEncoderCounts: 50
+deltatime: 0.199991
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766844
+vy: 0.0766844
+
+MainOdom=================
+dt: 0.0502896
+delta_x: 0.000289232
+delta_y: 3.97962e-07
+delta_th: 0
+x: 0.00525611
+y: 5.07202e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.0496958
+delta_x: 0.000285816
+delta_y: 3.93262e-07
+delta_th: 0
+x: 0.00554192
+y: 5.46529e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.0500113
+delta_x: 0.000287631
+delta_y: 3.9576e-07
+delta_th: 0
+x: 0.00582956
+y: 5.86105e-06
+th: 0.00137593
+
+
+MainOdom=================
+dt: 0.0500041
+delta_x: 0.00028759
+delta_y: 3.95702e-07
+delta_th: 0
+x: 0.00611715
+y: 6.25675e-06
+th: 0.00137593
+
+
+Encoder=========================
+ocorrência: 93
+currentT: 1475085792.608779347
+lastT: 1475085792.408807939
+ticks_x: 67
+ticks_y: 71
+_PreviousLeftEncoderCounts: 56
+_PreviousRightEncoderCounts: 61
+deltatime: 0.199971
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766918
+vy: 0.0697199
+
+MainOdom=================
+dt: 0.050393
+delta_x: 0.000276679
+delta_y: 3.8069e-07
+delta_th: -6.93432e-05
+x: 0.00639382
+y: 6.63744e-06
+th: 0.00130658
+
+
+MainOdom=================
+dt: 0.0495945
+delta_x: 0.000272295
+delta_y: 3.55776e-07
+delta_th: -6.82445e-05
+x: 0.00666612
+y: 6.99321e-06
+th: 0.00123834
+
+
+MainOdom=================
+dt: 0.0500083
+delta_x: 0.000274567
+delta_y: 3.40007e-07
+delta_th: -6.88139e-05
+x: 0.00694069
+y: 7.33322e-06
+th: 0.00116952
+
+
+MainOdom=================
+dt: 0.0499999
+delta_x: 0.000274521
+delta_y: 3.21059e-07
+delta_th: -6.88023e-05
+x: 0.00721521
+y: 7.65428e-06
+th: 0.00110072
+
+
+MainOdom=================
+dt: 0.0499996
+delta_x: 0.00027452
+delta_y: 3.0217e-07
+delta_th: -6.8802e-05
+x: 0.00748973
+y: 7.95645e-06
+th: 0.00103192
+
+
+Encoder=========================
+ocorrência: 94
+currentT: 1475085792.858792906
+lastT: 1475085792.608779347
+ticks_x: 78
+ticks_y: 81
+_PreviousLeftEncoderCounts: 67
+_PreviousRightEncoderCounts: 71
+deltatime: 0.250014
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0613414
+vy: 0.0557649
+
+MainOdom=================
+dt: 0.0502515
+delta_x: 0.000220678
+delta_y: 2.27722e-07
+delta_th: -5.53079e-05
+x: 0.00771041
+y: 8.18417e-06
+th: 0.000976611
+
+
+MainOdom=================
+dt: 0.0497388
+delta_x: 0.000218427
+delta_y: 2.13319e-07
+delta_th: -5.47437e-05
+x: 0.00792883
+y: 8.39749e-06
+th: 0.000921867
+
+
+MainOdom=================
+dt: 0.0500336
+delta_x: 0.000219722
+delta_y: 2.02554e-07
+delta_th: -5.50681e-05
+x: 0.00814856
+y: 8.60005e-06
+th: 0.000866799
+
+
+MainOdom=================
+dt: 0.049983
+delta_x: 0.0002195
+delta_y: 1.90262e-07
+delta_th: -5.50125e-05
+x: 0.00836806
+y: 8.79031e-06
+th: 0.000811787
+
+
+Encoder=========================
+ocorrência: 95
+currentT: 1475085793.058822783
+lastT: 1475085792.858792906
+ticks_x: 89
+ticks_y: 91
+_PreviousLeftEncoderCounts: 78
+_PreviousRightEncoderCounts: 81
+deltatime: 0.20003
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766694
+vy: 0.0696995
+
+MainOdom=================
+dt: 0.0503082
+delta_x: 0.000276133
+delta_y: 2.24161e-07
+delta_th: -6.92063e-05
+x: 0.00864419
+y: 9.01447e-06
+th: 0.000742581
+
+
+MainOdom=================
+dt: 0.0496636
+delta_x: 0.000272595
+delta_y: 2.02424e-07
+delta_th: -6.83197e-05
+x: 0.00891678
+y: 9.21689e-06
+th: 0.000674261
+
+
+MainOdom=================
+dt: 0.0500209
+delta_x: 0.000274556
+delta_y: 1.85123e-07
+delta_th: -6.88112e-05
+x: 0.00919134
+y: 9.40202e-06
+th: 0.00060545
+
+
+MainOdom=================
+dt: 0.0500068
+delta_x: 0.000274479
+delta_y: 1.66183e-07
+delta_th: -6.87918e-05
+x: 0.00946582
+y: 9.5682e-06
+th: 0.000536658
+
+
+Encoder=========================
+ocorrência: 96
+currentT: 1475085793.258814515
+lastT: 1475085793.058822783
+ticks_x: 101
+ticks_y: 101
+_PreviousLeftEncoderCounts: 89
+_PreviousRightEncoderCounts: 91
+deltatime: 0.199992
+deltaLeft: 12
+deltaRight: 10
+vx: 0.0836553
+vy: 0.0697128
+
+MainOdom=================
+dt: 0.0503785
+delta_x: 0.000289742
+delta_y: 1.55493e-07
+delta_th: -0.000138633
+x: 0.00975556
+y: 9.72369e-06
+th: 0.000398025
+
+
+MainOdom=================
+dt: 0.0495983
+delta_x: 0.000285255
+delta_y: 1.13539e-07
+delta_th: -0.000136486
+x: 0.0100408
+y: 9.83723e-06
+th: 0.00026154
+
+
+MainOdom=================
+dt: 0.0500331
+delta_x: 0.000287755
+delta_y: 7.52594e-08
+delta_th: -0.000137682
+x: 0.0103286
+y: 9.91249e-06
+th: 0.000123858
+
+
+MainOdom=================
+dt: 0.0499848
+delta_x: 0.000287478
+delta_y: 3.56063e-08
+delta_th: -0.000137549
+x: 0.010616
+y: 9.9481e-06
+th: -1.36915e-05
+
+
+Encoder=========================
+ocorrência: 97
+currentT: 1475085793.458815875
+lastT: 1475085793.258814515
+ticks_x: 112
+ticks_y: 111
+_PreviousLeftEncoderCounts: 101
+_PreviousRightEncoderCounts: 101
+deltatime: 0.200001
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766804
+vy: 0.0697094
+
+MainOdom=================
+dt: 0.0502817
+delta_x: 0.000276027
+delta_y: -3.77924e-09
+delta_th: -6.91797e-05
+x: 0.0108921
+y: 9.94432e-06
+th: -8.28712e-05
+
+
+MainOdom=================
+dt: 0.049699
+delta_x: 0.000272829
+delta_y: -2.26096e-08
+delta_th: -6.83781e-05
+x: 0.0111649
+y: 9.92171e-06
+th: -0.000151249
+
+
+MainOdom=================
+dt: 0.0500166
+delta_x: 0.000274572
+delta_y: -4.15288e-08
+delta_th: -6.8815e-05
+x: 0.0114395
+y: 9.88018e-06
+th: -0.000220064
+
+
+MainOdom=================
+dt: 0.0499858
+delta_x: 0.000274403
+delta_y: -6.03863e-08
+delta_th: -6.87727e-05
+x: 0.0117139
+y: 9.81979e-06
+th: -0.000288837
+
+
+Encoder=========================
+ocorrência: 98
+currentT: 1475085793.658798088
+lastT: 1475085793.458815875
+ticks_x: 123
+ticks_y: 121
+_PreviousLeftEncoderCounts: 112
+_PreviousRightEncoderCounts: 111
+deltatime: 0.199982
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766877
+vy: 0.0697161
+
+MainOdom=================
+dt: 0.0502956
+delta_x: 0.00027613
+delta_y: -7.97566e-08
+delta_th: -6.92055e-05
+x: 0.01199
+y: 9.74004e-06
+th: -0.000358043
+
+
+MainOdom=================
+dt: 0.049718
+delta_x: 0.000272959
+delta_y: -9.7731e-08
+delta_th: -6.84108e-05
+x: 0.012263
+y: 9.64231e-06
+th: -0.000426453
+
+
+MainOdom=================
+dt: 0.0499967
+delta_x: 0.000274489
+delta_y: -1.17057e-07
+delta_th: -6.87943e-05
+x: 0.0125375
+y: 9.52525e-06
+th: -0.000495248
+
+
+MainOdom=================
+dt: 0.0500025
+delta_x: 0.000274521
+delta_y: -1.35956e-07
+delta_th: -6.88022e-05
+x: 0.012812
+y: 9.38929e-06
+th: -0.00056405
+
+
+Encoder=========================
+ocorrência: 99
+currentT: 1475085793.858811210
+lastT: 1475085793.658798088
+ticks_x: 134
+ticks_y: 132
+_PreviousLeftEncoderCounts: 123
+_PreviousRightEncoderCounts: 121
+deltatime: 0.200013
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766759
+vy: 0.0766759
+
+MainOdom=================
+dt: 0.0502774
+delta_x: 0.00028913
+delta_y: -1.63084e-07
+delta_th: 0
+x: 0.0131011
+y: 9.22621e-06
+th: -0.00056405
+
+
+MainOdom=================
+dt: 0.0497085
+delta_x: 0.000285858
+delta_y: -1.61238e-07
+delta_th: 0
+x: 0.013387
+y: 9.06497e-06
+th: -0.00056405
+
+
+MainOdom=================
+dt: 0.0500249
+delta_x: 0.000287678
+delta_y: -1.62264e-07
+delta_th: 0
+x: 0.0136746
+y: 8.90271e-06
+th: -0.00056405
+
+
+MainOdom=================
+dt: 0.0499987
+delta_x: 0.000287527
+delta_y: -1.62179e-07
+delta_th: 0
+x: 0.0139622
+y: 8.74053e-06
+th: -0.00056405
+
+
+Encoder=========================
+ocorrência: 100
+currentT: 1475085794.058825868
+lastT: 1475085793.858811210
+ticks_x: 145
+ticks_y: 142
+_PreviousLeftEncoderCounts: 134
+_PreviousRightEncoderCounts: 132
+deltatime: 0.200015
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766753
+vy: 0.0697048
+
+MainOdom=================
+dt: 0.0503116
+delta_x: 0.000276173
+delta_y: -1.55775e-07
+delta_th: -6.92163e-05
+x: 0.0142383
+y: 8.58475e-06
+th: -0.000633266
+
+
+MainOdom=================
+dt: 0.0496776
+delta_x: 0.000272693
+delta_y: -1.72687e-07
+delta_th: -6.83441e-05
+x: 0.014511
+y: 8.41206e-06
+th: -0.00070161
+
+
+MainOdom=================
+dt: 0.0499991
+delta_x: 0.000274458
+delta_y: -1.92562e-07
+delta_th: -6.87864e-05
+x: 0.0147855
+y: 8.2195e-06
+th: -0.000770397
+
+
+MainOdom=================
+dt: 0.0500133
+delta_x: 0.000274535
+delta_y: -2.11501e-07
+delta_th: -6.88059e-05
+x: 0.01506
+y: 8.008e-06
+th: -0.000839202
+
+
+Encoder=========================
+ocorrência: 101
+currentT: 1475085794.258779421
+lastT: 1475085794.058825868
+ticks_x: 156
+ticks_y: 152
+_PreviousLeftEncoderCounts: 145
+_PreviousRightEncoderCounts: 142
+deltatime: 0.199954
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766987
+vy: 0.0697261
+
+MainOdom=================
+dt: 0.050276
+delta_x: 0.000276062
+delta_y: -2.31672e-07
+delta_th: -6.91884e-05
+x: 0.0153361
+y: 7.77633e-06
+th: -0.000908391
+
+
+MainOdom=================
+dt: 0.0497107
+delta_x: 0.000272958
+delta_y: -2.47952e-07
+delta_th: -6.84105e-05
+x: 0.015609
+y: 7.52838e-06
+th: -0.000976801
+
+
+MainOdom=================
+dt: 0.0500089
+delta_x: 0.000274595
+delta_y: -2.68225e-07
+delta_th: -6.88208e-05
+x: 0.0158836
+y: 7.26015e-06
+th: -0.00104562
+
+
+MainOdom=================
+dt: 0.049992
+delta_x: 0.000274503
+delta_y: -2.87026e-07
+delta_th: -6.87977e-05
+x: 0.0161581
+y: 6.97313e-06
+th: -0.00111442
+
+
+Encoder=========================
+ocorrência: 102
+currentT: 1475085794.458816303
+lastT: 1475085794.258779421
+ticks_x: 168
+ticks_y: 162
+_PreviousLeftEncoderCounts: 156
+_PreviousRightEncoderCounts: 152
+deltatime: 0.200037
+deltaLeft: 12
+deltaRight: 10
+vx: 0.0836365
+vy: 0.069697
+
+MainOdom=================
+dt: 0.0502848
+delta_x: 0.000289138
+delta_y: -3.22221e-07
+delta_th: -0.000138344
+x: 0.0164473
+y: 6.6509e-06
+th: -0.00125276
+
+
+MainOdom=================
+dt: 0.0497257
+delta_x: 0.000285923
+delta_y: -3.58194e-07
+delta_th: -0.000136805
+x: 0.0167332
+y: 6.29271e-06
+th: -0.00138957
+
+
+MainOdom=================
+dt: 0.0500067
+delta_x: 0.000287539
+delta_y: -3.99555e-07
+delta_th: -0.000137578
+x: 0.0170207
+y: 5.89316e-06
+th: -0.00152715
+
+
+MainOdom=================
+dt: 0.0500142
+delta_x: 0.000287581
+delta_y: -4.3918e-07
+delta_th: -0.000137599
+x: 0.0173083
+y: 5.45398e-06
+th: -0.00166475
+
+
+Encoder=========================
+ocorrência: 103
+currentT: 1475085794.658819761
+lastT: 1475085794.458816303
+ticks_x: 179
+ticks_y: 172
+_PreviousLeftEncoderCounts: 168
+_PreviousRightEncoderCounts: 162
+deltatime: 0.200003
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766796
+vy: 0.0697087
+
+MainOdom=================
+dt: 0.0503271
+delta_x: 0.000276273
+delta_y: -4.59925e-07
+delta_th: -6.92415e-05
+x: 0.0175846
+y: 4.99405e-06
+th: -0.00173399
+
+
+MainOdom=================
+dt: 0.049649
+delta_x: 0.000272551
+delta_y: -4.726e-07
+delta_th: -6.83085e-05
+x: 0.0178572
+y: 4.52145e-06
+th: -0.0018023
+
+
+MainOdom=================
+dt: 0.0499844
+delta_x: 0.000274392
+delta_y: -4.94536e-07
+delta_th: -6.877e-05
+x: 0.0181315
+y: 4.02692e-06
+th: -0.00187107
+
+
+MainOdom=================
+dt: 0.0499974
+delta_x: 0.000274463
+delta_y: -5.13539e-07
+delta_th: -6.87879e-05
+x: 0.018406
+y: 3.51338e-06
+th: -0.00193985
+
+
+Encoder=========================
+ocorrência: 104
+currentT: 1475085794.858821763
+lastT: 1475085794.658819761
+ticks_x: 190
+ticks_y: 183
+_PreviousLeftEncoderCounts: 179
+_PreviousRightEncoderCounts: 172
+deltatime: 0.200002
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766801
+vy: 0.0766801
+
+MainOdom=================
+dt: 0.0503511
+delta_x: 0.000289569
+delta_y: -5.61723e-07
+delta_th: 0
+x: 0.0186956
+y: 2.95165e-06
+th: -0.00193985
+
+
+MainOdom=================
+dt: 0.0496664
+delta_x: 0.000285631
+delta_y: -5.54084e-07
+delta_th: 0
+x: 0.0189812
+y: 2.39757e-06
+th: -0.00193985
+
+
+MainOdom=================
+dt: 0.0499983
+delta_x: 0.00028754
+delta_y: -5.57787e-07
+delta_th: 0
+x: 0.0192687
+y: 1.83978e-06
+th: -0.00193985
+
+
+MainOdom=================
+dt: 0.0499806
+delta_x: 0.000287439
+delta_y: -5.5759e-07
+delta_th: 0
+x: 0.0195562
+y: 1.28219e-06
+th: -0.00193985
+
+
+Encoder=========================
+ocorrência: 105
+currentT: 1475085795.058834520
+lastT: 1475085794.858821763
+ticks_x: 201
+ticks_y: 194
+_PreviousLeftEncoderCounts: 190
+_PreviousRightEncoderCounts: 183
+deltatime: 0.200013
+deltaLeft: 11
+deltaRight: 11
+vx: 0.076676
+vy: 0.076676
+
+MainOdom=================
+dt: 0.0503846
+delta_x: 0.000289746
+delta_y: -5.62065e-07
+delta_th: 0
+x: 0.0198459
+y: 7.20128e-07
+th: -0.00193985
+
+
+MainOdom=================
+dt: 0.0496349
+delta_x: 0.000285435
+delta_y: -5.53703e-07
+delta_th: 0
+x: 0.0201314
+y: 1.66425e-07
+th: -0.00193985
+
+
+MainOdom=================
+dt: 0.0500004
+delta_x: 0.000287537
+delta_y: -5.5778e-07
+delta_th: 0
+x: 0.0204189
+y: -3.91354e-07
+th: -0.00193985
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0.000287536
+delta_y: -5.57778e-07
+delta_th: 0
+x: 0.0207064
+y: -9.49132e-07
+th: -0.00193985
+
+
+Encoder=========================
+ocorrência: 106
+currentT: 1475085795.258807804
+lastT: 1475085795.058834520
+ticks_x: 212
+ticks_y: 204
+_PreviousLeftEncoderCounts: 201
+_PreviousRightEncoderCounts: 194
+deltatime: 0.199973
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766911
+vy: 0.0697192
+
+MainOdom=================
+dt: 0.0503082
+delta_x: 0.000276211
+delta_y: -5.3581e-07
+delta_th: -6.9226e-05
+x: 0.0209827
+y: -1.48494e-06
+th: -0.00200908
+
+
+MainOdom=================
+dt: 0.0496943
+delta_x: 0.000272841
+delta_y: -5.48159e-07
+delta_th: -6.83813e-05
+x: 0.0212555
+y: -2.0331e-06
+th: -0.00207746
+
+
+MainOdom=================
+dt: 0.0499928
+delta_x: 0.000274479
+delta_y: -5.7022e-07
+delta_th: -6.87919e-05
+x: 0.02153
+y: -2.60332e-06
+th: -0.00214625
+
+
+MainOdom=================
+dt: 0.0500042
+delta_x: 0.000274542
+delta_y: -5.89237e-07
+delta_th: -6.88077e-05
+x: 0.0218045
+y: -3.19256e-06
+th: -0.00221506
+
+
+MainOdom=================
+dt: 0.0500003
+delta_x: 0.00027452
+delta_y: -6.0808e-07
+delta_th: -6.88023e-05
+x: 0.022079
+y: -3.80064e-06
+th: -0.00228386
+
+
+Encoder=========================
+ocorrência: 107
+currentT: 1475085795.508825242
+lastT: 1475085795.258807804
+ticks_x: 223
+ticks_y: 215
+_PreviousLeftEncoderCounts: 212
+_PreviousRightEncoderCounts: 204
+deltatime: 0.250017
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0613404
+vy: 0.0613404
+
+MainOdom=================
+dt: 0.0505108
+delta_x: 0.000232376
+delta_y: -5.30716e-07
+delta_th: 0
+x: 0.0223114
+y: -4.33136e-06
+th: -0.00228386
+
+
+MainOdom=================
+dt: 0.0495016
+delta_x: 0.000227733
+delta_y: -5.20112e-07
+delta_th: 0
+x: 0.0225391
+y: -4.85147e-06
+th: -0.00228386
+
+
+MainOdom=================
+dt: 0.0499879
+delta_x: 0.00022997
+delta_y: -5.25222e-07
+delta_th: 0
+x: 0.0227691
+y: -5.37669e-06
+th: -0.00228386
+
+
+MainOdom=================
+dt: 0.0499977
+delta_x: 0.000230015
+delta_y: -5.25324e-07
+delta_th: 0
+x: 0.0229991
+y: -5.90201e-06
+th: -0.00228386
+
+
+Encoder=========================
+ocorrência: 108
+currentT: 1475085795.708820720
+lastT: 1475085795.508825242
+ticks_x: 234
+ticks_y: 225
+_PreviousLeftEncoderCounts: 223
+_PreviousRightEncoderCounts: 215
+deltatime: 0.199995
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766826
+vy: 0.0697115
+
+MainOdom=================
+dt: 0.0503612
+delta_x: 0.000276471
+delta_y: -6.31423e-07
+delta_th: -6.92912e-05
+x: 0.0232756
+y: -6.53344e-06
+th: -0.00235315
+
+
+MainOdom=================
+dt: 0.0496385
+delta_x: 0.000272504
+delta_y: -6.41244e-07
+delta_th: -6.82968e-05
+x: 0.0235481
+y: -7.17468e-06
+th: -0.00242145
+
+
+MainOdom=================
+dt: 0.0500018
+delta_x: 0.000274498
+delta_y: -6.64685e-07
+delta_th: -6.87967e-05
+x: 0.0238226
+y: -7.83937e-06
+th: -0.00249025
+
+
+MainOdom=================
+dt: 0.0499856
+delta_x: 0.000274409
+delta_y: -6.83348e-07
+delta_th: -6.87745e-05
+x: 0.024097
+y: -8.52271e-06
+th: -0.00255902
+
+
+Encoder=========================
+ocorrência: 109
+currentT: 1475085795.908782740
+lastT: 1475085795.708820720
+ticks_x: 245
+ticks_y: 236
+_PreviousLeftEncoderCounts: 234
+_PreviousRightEncoderCounts: 225
+deltatime: 0.199962
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766955
+vy: 0.0766955
+
+MainOdom=================
+dt: 0.0503608
+delta_x: 0.000289682
+delta_y: -7.41305e-07
+delta_th: 0
+x: 0.0243867
+y: -9.26402e-06
+th: -0.00255902
+
+
+MainOdom=================
+dt: 0.0496613
+delta_x: 0.000285659
+delta_y: -7.31009e-07
+delta_th: 0
+x: 0.0246724
+y: -9.99503e-06
+th: -0.00255902
+
+
+MainOdom=================
+dt: 0.0499961
+delta_x: 0.000287585
+delta_y: -7.35937e-07
+delta_th: 0
+x: 0.0249599
+y: -1.0731e-05
+th: -0.00255902
+
+
+MainOdom=================
+dt: 0.0500438
+delta_x: 0.000287859
+delta_y: -7.36639e-07
+delta_th: 0
+x: 0.0252478
+y: -1.14676e-05
+th: -0.00255902
+
+
+Encoder=========================
+ocorrência: 110
+currentT: 1475085796.108813923
+lastT: 1475085795.908782740
+ticks_x: 256
+ticks_y: 247
+_PreviousLeftEncoderCounts: 245
+_PreviousRightEncoderCounts: 236
+deltatime: 0.200031
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766689
+vy: 0.0766689
+
+MainOdom=================
+dt: 0.0505857
+delta_x: 0.000290875
+delta_y: -7.44358e-07
+delta_th: 0
+x: 0.0255387
+y: -1.2212e-05
+th: -0.00255902
+
+
+MainOdom=================
+dt: 0.0493546
+delta_x: 0.000283797
+delta_y: -7.26243e-07
+delta_th: 0
+x: 0.0258225
+y: -1.29382e-05
+th: -0.00255902
+
+
+MainOdom=================
+dt: 0.0499935
+delta_x: 0.00028747
+delta_y: -7.35645e-07
+delta_th: 0
+x: 0.0261099
+y: -1.36739e-05
+th: -0.00255902
+
+
+MainOdom=================
+dt: 0.0500423
+delta_x: 0.000287751
+delta_y: -7.36362e-07
+delta_th: 0
+x: 0.0263977
+y: -1.44102e-05
+th: -0.00255902
+
+
+Encoder=========================
+ocorrência: 111
+currentT: 1475085796.308821782
+lastT: 1475085796.108813923
+ticks_x: 268
+ticks_y: 258
+_PreviousLeftEncoderCounts: 256
+_PreviousRightEncoderCounts: 247
+deltatime: 0.200008
+deltaLeft: 12
+deltaRight: 11
+vx: 0.0836486
+vy: 0.0766779
+
+MainOdom=================
+dt: 0.0503316
+delta_x: 0.000302605
+delta_y: -7.74374e-07
+delta_th: -6.92462e-05
+x: 0.0267003
+y: -1.51846e-05
+th: -0.00262827
+
+
+MainOdom=================
+dt: 0.0496777
+delta_x: 0.000298673
+delta_y: -7.84995e-07
+delta_th: -6.83465e-05
+x: 0.026999
+y: -1.59696e-05
+th: -0.00269661
+
+
+MainOdom=================
+dt: 0.049977
+delta_x: 0.000300473
+delta_y: -8.10261e-07
+delta_th: -6.87583e-05
+x: 0.0272994
+y: -1.67798e-05
+th: -0.00276537
+
+
+MainOdom=================
+dt: 0.049999
+delta_x: 0.000300605
+delta_y: -8.31288e-07
+delta_th: -6.87886e-05
+x: 0.0276
+y: -1.76111e-05
+th: -0.00283416
+
+
+Encoder=========================
+ocorrência: 112
+currentT: 1475085796.508847074
+lastT: 1475085796.308821782
+ticks_x: 279
+ticks_y: 268
+_PreviousLeftEncoderCounts: 268
+_PreviousRightEncoderCounts: 258
+deltatime: 0.200025
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766712
+vy: 0.0697011
+
+MainOdom=================
+dt: 0.0503858
+delta_x: 0.000276565
+delta_y: -7.83831e-07
+delta_th: -6.93147e-05
+x: 0.0278766
+y: -1.8395e-05
+th: -0.00290348
+
+
+MainOdom=================
+dt: 0.0496068
+delta_x: 0.000272289
+delta_y: -7.90586e-07
+delta_th: -6.82431e-05
+x: 0.0281489
+y: -1.91855e-05
+th: -0.00297172
+
+
+MainOdom=================
+dt: 0.0500083
+delta_x: 0.000274492
+delta_y: -8.15716e-07
+delta_th: -6.87953e-05
+x: 0.0284234
+y: -2.00013e-05
+th: -0.00304051
+
+
+MainOdom=================
+dt: 0.0499979
+delta_x: 0.000274435
+delta_y: -8.34427e-07
+delta_th: -6.87811e-05
+x: 0.0286978
+y: -2.08357e-05
+th: -0.0031093
+
+
+Encoder=========================
+ocorrência: 113
+currentT: 1475085796.708811812
+lastT: 1475085796.508847074
+ticks_x: 290
+ticks_y: 279
+_PreviousLeftEncoderCounts: 279
+_PreviousRightEncoderCounts: 268
+deltatime: 0.199965
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766944
+vy: 0.0766944
+
+MainOdom=================
+dt: 0.0504356
+delta_x: 0.000290108
+delta_y: -9.02036e-07
+delta_th: 0
+x: 0.0289879
+y: -2.17377e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.049561
+delta_x: 0.000285078
+delta_y: -8.86394e-07
+delta_th: 0
+x: 0.029273
+y: -2.26241e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0500166
+delta_x: 0.000287698
+delta_y: -8.94541e-07
+delta_th: 0
+x: 0.0295607
+y: -2.35187e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0499631
+delta_x: 0.00028739
+delta_y: -8.93584e-07
+delta_th: 0
+x: 0.0298481
+y: -2.44122e-05
+th: -0.0031093
+
+
+Encoder=========================
+ocorrência: 114
+currentT: 1475085796.908796309
+lastT: 1475085796.708811812
+ticks_x: 301
+ticks_y: 290
+_PreviousLeftEncoderCounts: 290
+_PreviousRightEncoderCounts: 279
+deltatime: 0.199984
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766868
+vy: 0.0766868
+
+MainOdom=================
+dt: 0.0503378
+delta_x: 0.000289517
+delta_y: -9.00198e-07
+delta_th: 0
+x: 0.0301376
+y: -2.53124e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0496856
+delta_x: 0.000285766
+delta_y: -8.88533e-07
+delta_th: 0
+x: 0.0304234
+y: -2.6201e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0499961
+delta_x: 0.000287552
+delta_y: -8.94086e-07
+delta_th: 0
+x: 0.0307109
+y: -2.70951e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0500222
+delta_x: 0.000287702
+delta_y: -8.94554e-07
+delta_th: 0
+x: 0.0309986
+y: -2.79896e-05
+th: -0.0031093
+
+
+Encoder=========================
+ocorrência: 115
+currentT: 1475085797.108811962
+lastT: 1475085796.908796309
+ticks_x: 312
+ticks_y: 301
+_PreviousLeftEncoderCounts: 301
+_PreviousRightEncoderCounts: 290
+deltatime: 0.200016
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766749
+vy: 0.0766749
+
+MainOdom=================
+dt: 0.0503245
+delta_x: 0.000289396
+delta_y: -8.99819e-07
+delta_th: 0
+x: 0.031288
+y: -2.88894e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0496469
+delta_x: 0.000285499
+delta_y: -8.87703e-07
+delta_th: 0
+x: 0.0315735
+y: -2.97771e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0500091
+delta_x: 0.000287582
+delta_y: -8.9418e-07
+delta_th: 0
+x: 0.0318611
+y: -3.06713e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0500032
+delta_x: 0.000287548
+delta_y: -8.94073e-07
+delta_th: 0
+x: 0.0321487
+y: -3.15654e-05
+th: -0.0031093
+
+
+Encoder=========================
+ocorrência: 116
+currentT: 1475085797.308811544
+lastT: 1475085797.108811962
+ticks_x: 323
+ticks_y: 312
+_PreviousLeftEncoderCounts: 312
+_PreviousRightEncoderCounts: 301
+deltatime: 0.2
+deltaLeft: 11
+deltaRight: 11
+vx: 0.076681
+vy: 0.076681
+
+MainOdom=================
+dt: 0.0502732
+delta_x: 0.000289124
+delta_y: -8.98975e-07
+delta_th: 0
+x: 0.0324378
+y: -3.24644e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0497232
+delta_x: 0.000285961
+delta_y: -8.89139e-07
+delta_th: 0
+x: 0.0327237
+y: -3.33535e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0.000287554
+delta_y: -8.94092e-07
+delta_th: 0
+x: 0.0330113
+y: -3.42476e-05
+th: -0.0031093
+
+
+MainOdom=================
+dt: 0.0500024
+delta_x: 0.000287566
+delta_y: -8.94131e-07
+delta_th: 0
+x: 0.0332989
+y: -3.51417e-05
+th: -0.0031093
+
+
+Encoder=========================
+ocorrência: 117
+currentT: 1475085797.508772484
+lastT: 1475085797.308811544
+ticks_x: 335
+ticks_y: 323
+_PreviousLeftEncoderCounts: 323
+_PreviousRightEncoderCounts: 312
+deltatime: 0.199961
+deltaLeft: 12
+deltaRight: 11
+vx: 0.0836682
+vy: 0.0766959
+
+MainOdom=================
+dt: 0.0501431
+delta_x: 0.000301542
+delta_y: -9.37586e-07
+delta_th: -6.9003e-05
+x: 0.0336004
+y: -3.60793e-05
+th: -0.0031783
+
+
+MainOdom=================
+dt: 0.0498239
+delta_x: 0.000299622
+delta_y: -9.52293e-07
+delta_th: -6.85638e-05
+x: 0.0339
+y: -3.70316e-05
+th: -0.00324686
+
+
+MainOdom=================
+dt: 0.0500017
+delta_x: 0.000300691
+delta_y: -9.76306e-07
+delta_th: -6.88084e-05
+x: 0.0342007
+y: -3.80079e-05
+th: -0.00331567
+
+
+MainOdom=================
+dt: 0.0500043
+delta_x: 0.000300707
+delta_y: -9.97049e-07
+delta_th: -6.8812e-05
+x: 0.0345014
+y: -3.9005e-05
+th: -0.00338448
+
+
+Encoder=========================
+ocorrência: 118
+currentT: 1475085797.708806228
+lastT: 1475085797.508772484
+ticks_x: 346
+ticks_y: 334
+_PreviousLeftEncoderCounts: 335
+_PreviousRightEncoderCounts: 323
+deltatime: 0.200034
+deltaLeft: 11
+deltaRight: 11
+vx: 0.076668
+vy: 0.076668
+
+MainOdom=================
+dt: 0.0503093
+delta_x: 0.000289282
+delta_y: -9.79072e-07
+delta_th: 0
+x: 0.0347907
+y: -3.9984e-05
+th: -0.00338448
+
+
+MainOdom=================
+dt: 0.0497399
+delta_x: 0.000286008
+delta_y: -9.67992e-07
+delta_th: 0
+x: 0.0350767
+y: -4.0952e-05
+th: -0.00338448
+
+
+MainOdom=================
+dt: 0.0499665
+delta_x: 0.00028731
+delta_y: -9.72401e-07
+delta_th: 0
+x: 0.035364
+y: -4.19244e-05
+th: -0.00338448
+
+
+MainOdom=================
+dt: 0.0499801
+delta_x: 0.000287388
+delta_y: -9.72665e-07
+delta_th: 0
+x: 0.0356514
+y: -4.28971e-05
+th: -0.00338448
+
+
+Encoder=========================
+ocorrência: 119
+currentT: 1475085797.908786141
+lastT: 1475085797.708806228
+ticks_x: 357
+ticks_y: 345
+_PreviousLeftEncoderCounts: 346
+_PreviousRightEncoderCounts: 334
+deltatime: 0.19998
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766886
+vy: 0.0766886
+
+MainOdom=================
+dt: 0.0502793
+delta_x: 0.000289187
+delta_y: -9.78752e-07
+delta_th: 0
+x: 0.0359406
+y: -4.38758e-05
+th: -0.00338448
+
+
+MainOdom=================
+dt: 0.0497409
+delta_x: 0.00028609
+delta_y: -9.68271e-07
+delta_th: 0
+x: 0.0362267
+y: -4.48441e-05
+th: -0.00338448
+
+
+MainOdom=================
+dt: 0.0500114
+delta_x: 0.000287646
+delta_y: -9.73537e-07
+delta_th: 0
+x: 0.0365143
+y: -4.58177e-05
+th: -0.00338448
+
+
+MainOdom=================
+dt: 0.0500249
+delta_x: 0.000287724
+delta_y: -9.738e-07
+delta_th: 0
+x: 0.0368021
+y: -4.67915e-05
+th: -0.00338448
+
+
+MainOdom=================
+dt: 0.0499552
+delta_x: 0.000287323
+delta_y: -9.72442e-07
+delta_th: 0
+x: 0.0370894
+y: -4.77639e-05
+th: -0.00338448
+
+
+Encoder=========================
+ocorrência: 120
+currentT: 1475085798.158812515
+lastT: 1475085797.908786141
+ticks_x: 368
+ticks_y: 355
+_PreviousLeftEncoderCounts: 357
+_PreviousRightEncoderCounts: 345
+deltatime: 0.250026
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0613382
+vy: 0.055762
+
+MainOdom=================
+dt: 0.0503649
+delta_x: 0.000221164
+delta_y: -7.48529e-07
+delta_th: -5.54299e-05
+x: 0.0373105
+y: -4.85124e-05
+th: -0.00343991
+
+
+MainOdom=================
+dt: 0.0496549
+delta_x: 0.000218046
+delta_y: -7.50063e-07
+delta_th: -5.46485e-05
+x: 0.0375286
+y: -4.92625e-05
+th: -0.00349456
+
+
+MainOdom=================
+dt: 0.0499991
+delta_x: 0.000219558
+delta_y: -7.67262e-07
+delta_th: -5.50274e-05
+x: 0.0377482
+y: -5.00298e-05
+th: -0.00354959
+
+
+MainOdom=================
+dt: 0.0499878
+delta_x: 0.000219508
+delta_y: -7.79166e-07
+delta_th: -5.50149e-05
+x: 0.0379677
+y: -5.08089e-05
+th: -0.0036046
+
+
+Encoder=========================
+ocorrência: 121
+currentT: 1475085798.358815814
+lastT: 1475085798.158812515
+ticks_x: 378
+ticks_y: 366
+_PreviousLeftEncoderCounts: 368
+_PreviousRightEncoderCounts: 355
+deltatime: 0.200003
+deltaLeft: 10
+deltaRight: 11
+vx: 0.0697087
+vy: 0.0766796
+
+MainOdom=================
+dt: 0.0502881
+delta_x: 0.000276058
+delta_y: -9.95084e-07
+delta_th: 6.91879e-05
+x: 0.0382437
+y: -5.1804e-05
+th: -0.00353542
+
+
+MainOdom=================
+dt: 0.049699
+delta_x: 0.000272824
+delta_y: -9.6455e-07
+delta_th: 6.83774e-05
+x: 0.0385165
+y: -5.27686e-05
+th: -0.00346704
+
+
+MainOdom=================
+dt: 0.0500265
+delta_x: 0.000274622
+delta_y: -9.52129e-07
+delta_th: 6.8828e-05
+x: 0.0387912
+y: -5.37207e-05
+th: -0.00339821
+
+
+MainOdom=================
+dt: 0.0499884
+delta_x: 0.000274413
+delta_y: -9.32517e-07
+delta_th: 6.87756e-05
+x: 0.0390656
+y: -5.46532e-05
+th: -0.00332944
+
+
+Encoder=========================
+ocorrência: 122
+currentT: 1475085798.558815461
+lastT: 1475085798.358815814
+ticks_x: 389
+ticks_y: 377
+_PreviousLeftEncoderCounts: 378
+_PreviousRightEncoderCounts: 366
+deltatime: 0.2
+deltaLeft: 11
+deltaRight: 11
+vx: 0.076681
+vy: 0.076681
+
+MainOdom=================
+dt: 0.0503442
+delta_x: 0.000289532
+delta_y: -9.6398e-07
+delta_th: 0
+x: 0.0393551
+y: -5.56172e-05
+th: -0.00332944
+
+
+MainOdom=================
+dt: 0.0496556
+delta_x: 0.000285571
+delta_y: -9.50795e-07
+delta_th: 0
+x: 0.0396407
+y: -5.6568e-05
+th: -0.00332944
+
+
+MainOdom=================
+dt: 0.0500108
+delta_x: 0.000287614
+delta_y: -9.57597e-07
+delta_th: 0
+x: 0.0399283
+y: -5.75256e-05
+th: -0.00332944
+
+
+MainOdom=================
+dt: 0.0499889
+delta_x: 0.000287488
+delta_y: -9.57177e-07
+delta_th: 0
+x: 0.0402158
+y: -5.84827e-05
+th: -0.00332944
+
+
+Encoder=========================
+ocorrência: 123
+currentT: 1475085798.758809898
+lastT: 1475085798.558815461
+ticks_x: 399
+ticks_y: 387
+_PreviousLeftEncoderCounts: 389
+_PreviousRightEncoderCounts: 377
+deltatime: 0.199994
+deltaLeft: 10
+deltaRight: 10
+vx: 0.0697118
+vy: 0.0697118
+
+MainOdom=================
+dt: 0.0502678
+delta_x: 0.000262818
+delta_y: -8.75038e-07
+delta_th: 0
+x: 0.0404786
+y: -5.93578e-05
+th: -0.00332944
+
+
+MainOdom=================
+dt: 0.0497339
+delta_x: 0.000260027
+delta_y: -8.65745e-07
+delta_th: 0
+x: 0.0407386
+y: -6.02235e-05
+th: -0.00332944
+
+
+MainOdom=================
+dt: 0.0500122
+delta_x: 0.000261482
+delta_y: -8.7059e-07
+delta_th: 0
+x: 0.0410001
+y: -6.10941e-05
+th: -0.00332944
+
+
+MainOdom=================
+dt: 0.0499849
+delta_x: 0.000261339
+delta_y: -8.70114e-07
+delta_th: 0
+x: 0.0412614
+y: -6.19642e-05
+th: -0.00332944
+
+
+Encoder=========================
+ocorrência: 124
+currentT: 1475085798.958818270
+lastT: 1475085798.758809898
+ticks_x: 409
+ticks_y: 398
+_PreviousLeftEncoderCounts: 399
+_PreviousRightEncoderCounts: 387
+deltatime: 0.200008
+deltaLeft: 10
+deltaRight: 11
+vx: 0.069707
+vy: 0.0766777
+
+MainOdom=================
+dt: 0.0502312
+delta_x: 0.000275739
+delta_y: -9.18058e-07
+delta_th: 6.91079e-05
+x: 0.0415372
+y: -6.28823e-05
+th: -0.00326033
+
+
+MainOdom=================
+dt: 0.0497787
+delta_x: 0.000273255
+delta_y: -8.90903e-07
+delta_th: 6.84853e-05
+x: 0.0418104
+y: -6.37732e-05
+th: -0.00319184
+
+
+MainOdom=================
+dt: 0.0500274
+delta_x: 0.00027462
+delta_y: -8.76548e-07
+delta_th: 6.88275e-05
+x: 0.0420851
+y: -6.46497e-05
+th: -0.00312301
+
+
+MainOdom=================
+dt: 0.0499727
+delta_x: 0.00027432
+delta_y: -8.56708e-07
+delta_th: 6.87522e-05
+x: 0.0423594
+y: -6.55065e-05
+th: -0.00305426
+
+
+Encoder=========================
+ocorrência: 125
+currentT: 1475085799.158822151
+lastT: 1475085798.958818270
+ticks_x: 419
+ticks_y: 409
+_PreviousLeftEncoderCounts: 409
+_PreviousRightEncoderCounts: 398
+deltatime: 0.200004
+deltaLeft: 10
+deltaRight: 11
+vx: 0.0697085
+vy: 0.0766794
+
+MainOdom=================
+dt: 0.0503355
+delta_x: 0.000276318
+delta_y: -8.43949e-07
+delta_th: 6.92529e-05
+x: 0.0426357
+y: -6.63504e-05
+th: -0.00298501
+
+
+MainOdom=================
+dt: 0.0496446
+delta_x: 0.000272525
+delta_y: -8.13492e-07
+delta_th: 6.83023e-05
+x: 0.0429082
+y: -6.71639e-05
+th: -0.00291671
+
+
+MainOdom=================
+dt: 0.0500123
+delta_x: 0.000274544
+delta_y: -8.00766e-07
+delta_th: 6.88083e-05
+x: 0.0431828
+y: -6.79647e-05
+th: -0.0028479
+
+
+MainOdom=================
+dt: 0.0499801
+delta_x: 0.000274367
+delta_y: -7.81372e-07
+delta_th: 6.8764e-05
+x: 0.0434571
+y: -6.8746e-05
+th: -0.00277913
+
+
+Encoder=========================
+ocorrência: 126
+currentT: 1475085799.358806228
+lastT: 1475085799.158822151
+ticks_x: 428
+ticks_y: 419
+_PreviousLeftEncoderCounts: 419
+_PreviousRightEncoderCounts: 409
+deltatime: 0.199984
+deltaLeft: 9
+deltaRight: 10
+vx: 0.0627439
+vy: 0.0697154
+
+MainOdom=================
+dt: 0.0503684
+delta_x: 0.00025019
+delta_y: -6.95315e-07
+delta_th: 6.93051e-05
+x: 0.0437073
+y: -6.94413e-05
+th: -0.00270983
+
+
+MainOdom=================
+dt: 0.0496309
+delta_x: 0.000246527
+delta_y: -6.68047e-07
+delta_th: 6.82902e-05
+x: 0.0439539
+y: -7.01094e-05
+th: -0.00264154
+
+
+MainOdom=================
+dt: 0.0500178
+delta_x: 0.000248449
+delta_y: -6.56289e-07
+delta_th: 6.88227e-05
+x: 0.0442023
+y: -7.07657e-05
+th: -0.00257272
+
+
+MainOdom=================
+dt: 0.0499788
+delta_x: 0.000248255
+delta_y: -6.38691e-07
+delta_th: 6.87689e-05
+x: 0.0444506
+y: -7.14044e-05
+th: -0.00250395
+
+
+Encoder=========================
+ocorrência: 127
+currentT: 1475085799.558779742
+lastT: 1475085799.358806228
+ticks_x: 439
+ticks_y: 430
+_PreviousLeftEncoderCounts: 428
+_PreviousRightEncoderCounts: 419
+deltatime: 0.199974
+deltaLeft: 11
+deltaRight: 11
+vx: 0.076691
+vy: 0.076691
+
+MainOdom=================
+dt: 0.0502153
+delta_x: 0.000288829
+delta_y: -7.23215e-07
+delta_th: 0
+x: 0.0447394
+y: -7.21276e-05
+th: -0.00250395
+
+
+MainOdom=================
+dt: 0.0497888
+delta_x: 0.000286376
+delta_y: -7.17071e-07
+delta_th: 0
+x: 0.0450258
+y: -7.28447e-05
+th: -0.00250395
+
+
+MainOdom=================
+dt: 0.0499942
+delta_x: 0.000287557
+delta_y: -7.20029e-07
+delta_th: 0
+x: 0.0453133
+y: -7.35647e-05
+th: -0.00250395
+
+
+MainOdom=================
+dt: 0.0500049
+delta_x: 0.000287618
+delta_y: -7.20183e-07
+delta_th: 0
+x: 0.0456009
+y: -7.42849e-05
+th: -0.00250395
+
+
+Encoder=========================
+ocorrência: 128
+currentT: 1475085799.758858175
+lastT: 1475085799.558779742
+ticks_x: 449
+ticks_y: 440
+_PreviousLeftEncoderCounts: 439
+_PreviousRightEncoderCounts: 430
+deltatime: 0.200078
+deltaLeft: 10
+deltaRight: 10
+vx: 0.0696826
+vy: 0.0696826
+
+MainOdom=================
+dt: 0.0504149
+delta_x: 0.000263477
+delta_y: -6.59734e-07
+delta_th: 0
+x: 0.0458644
+y: -7.49446e-05
+th: -0.00250395
+
+
+MainOdom=================
+dt: 0.0495926
+delta_x: 0.000259179
+delta_y: -6.48973e-07
+delta_th: 0
+x: 0.0461236
+y: -7.55936e-05
+th: -0.00250395
+
+
+MainOdom=================
+dt: 0.0500014
+delta_x: 0.000261316
+delta_y: -6.54324e-07
+delta_th: 0
+x: 0.0463849
+y: -7.62479e-05
+th: -0.00250395
+
+
+MainOdom=================
+dt: 0.0500235
+delta_x: 0.000261431
+delta_y: -6.54612e-07
+delta_th: 0
+x: 0.0466463
+y: -7.69025e-05
+th: -0.00250395
+
+
+Encoder=========================
+ocorrência: 129
+currentT: 1475085799.958805404
+lastT: 1475085799.758858175
+ticks_x: 460
+ticks_y: 450
+_PreviousLeftEncoderCounts: 449
+_PreviousRightEncoderCounts: 440
+deltatime: 0.199947
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0767011
+vy: 0.0697283
+
+MainOdom=================
+dt: 0.0502448
+delta_x: 0.000275898
+delta_y: -6.90836e-07
+delta_th: -6.91476e-05
+x: 0.0469222
+y: -7.75934e-05
+th: -0.0025731
+
+
+MainOdom=================
+dt: 0.049757
+delta_x: 0.00027322
+delta_y: -7.03023e-07
+delta_th: -6.84764e-05
+x: 0.0471955
+y: -7.82964e-05
+th: -0.00264157
+
+
+MainOdom=================
+dt: 0.0499871
+delta_x: 0.000274483
+delta_y: -7.25069e-07
+delta_th: -6.8793e-05
+x: 0.0474699
+y: -7.90214e-05
+th: -0.00271036
+
+
+MainOdom=================
+dt: 0.0500075
+delta_x: 0.000274596
+delta_y: -7.44256e-07
+delta_th: -6.88212e-05
+x: 0.0477445
+y: -7.97657e-05
+th: -0.00277919
+
+
+Encoder=========================
+ocorrência: 130
+currentT: 1475085800.158785728
+lastT: 1475085799.958805404
+ticks_x: 471
+ticks_y: 460
+_PreviousLeftEncoderCounts: 460
+_PreviousRightEncoderCounts: 450
+deltatime: 0.19998
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766884
+vy: 0.0697168
+
+MainOdom=================
+dt: 0.0502775
+delta_x: 0.000276032
+delta_y: -7.67147e-07
+delta_th: -6.91813e-05
+x: 0.0480206
+y: -8.05328e-05
+th: -0.00284837
+
+
+MainOdom=================
+dt: 0.0497187
+delta_x: 0.000272964
+delta_y: -7.77505e-07
+delta_th: -6.84124e-05
+x: 0.0482935
+y: -8.13104e-05
+th: -0.00291678
+
+
+MainOdom=================
+dt: 0.050004
+delta_x: 0.000274531
+delta_y: -8.00747e-07
+delta_th: -6.88049e-05
+x: 0.0485681
+y: -8.21111e-05
+th: -0.00298558
+
+
+MainOdom=================
+dt: 0.0500011
+delta_x: 0.000274514
+delta_y: -8.19589e-07
+delta_th: -6.88009e-05
+x: 0.0488426
+y: -8.29307e-05
+th: -0.00305439
+
+
+Encoder=========================
+ocorrência: 131
+currentT: 1475085800.358808762
+lastT: 1475085800.158785728
+ticks_x: 482
+ticks_y: 470
+_PreviousLeftEncoderCounts: 471
+_PreviousRightEncoderCounts: 460
+deltatime: 0.200023
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766721
+vy: 0.0697019
+
+MainOdom=================
+dt: 0.0502856
+delta_x: 0.000276018
+delta_y: -8.43067e-07
+delta_th: -6.91777e-05
+x: 0.0491186
+y: -8.37738e-05
+th: -0.00312356
+
+
+MainOdom=================
+dt: 0.0497036
+delta_x: 0.000272823
+delta_y: -8.52182e-07
+delta_th: -6.8377e-05
+x: 0.0493914
+y: -8.46259e-05
+th: -0.00319194
+
+
+MainOdom=================
+dt: 0.0500041
+delta_x: 0.000274472
+delta_y: -8.76102e-07
+delta_th: -6.87904e-05
+x: 0.0496659
+y: -8.5502e-05
+th: -0.00326073
+
+
+MainOdom=================
+dt: 0.0499998
+delta_x: 0.000274448
+delta_y: -8.94905e-07
+delta_th: -6.87844e-05
+x: 0.0499403
+y: -8.63969e-05
+th: -0.00332952
+
+
+Encoder=========================
+ocorrência: 132
+currentT: 1475085800.558813601
+lastT: 1475085800.358808762
+ticks_x: 494
+ticks_y: 480
+_PreviousLeftEncoderCounts: 482
+_PreviousRightEncoderCounts: 470
+deltatime: 0.200005
+deltaLeft: 12
+deltaRight: 10
+vx: 0.0836499
+vy: 0.0697082
+
+MainOdom=================
+dt: 0.0502959
+delta_x: 0.000289247
+delta_y: -9.63055e-07
+delta_th: -0.000138396
+x: 0.0502296
+y: -8.736e-05
+th: -0.00346791
+
+
+MainOdom=================
+dt: 0.0497014
+delta_x: 0.000285828
+delta_y: -9.91229e-07
+delta_th: -0.00013676
+x: 0.0505154
+y: -8.83512e-05
+th: -0.00360467
+
+
+MainOdom=================
+dt: 0.049989
+delta_x: 0.000287481
+delta_y: -1.03628e-06
+delta_th: -0.000137552
+x: 0.0508029
+y: -8.93875e-05
+th: -0.00374222
+
+
+MainOdom=================
+dt: 0.0500224
+delta_x: 0.000287673
+delta_y: -1.07654e-06
+delta_th: -0.000137644
+x: 0.0510906
+y: -9.0464e-05
+th: -0.00387987
+
+
+Encoder=========================
+ocorrência: 133
+currentT: 1475085800.758812713
+lastT: 1475085800.558813601
+ticks_x: 505
+ticks_y: 490
+_PreviousLeftEncoderCounts: 494
+_PreviousRightEncoderCounts: 480
+deltatime: 0.199999
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766812
+vy: 0.0697102
+
+MainOdom=================
+dt: 0.0501919
+delta_x: 0.000275535
+delta_y: -1.06905e-06
+delta_th: -6.9057e-05
+x: 0.0513661
+y: -9.15331e-05
+th: -0.00394892
+
+
+MainOdom=================
+dt: 0.0497793
+delta_x: 0.00027327
+delta_y: -1.07913e-06
+delta_th: -6.84894e-05
+x: 0.0516394
+y: -9.26122e-05
+th: -0.00401741
+
+
+MainOdom=================
+dt: 0.0499909
+delta_x: 0.000274432
+delta_y: -1.10251e-06
+delta_th: -6.87804e-05
+x: 0.0519138
+y: -9.37147e-05
+th: -0.00408619
+
+
+MainOdom=================
+dt: 0.0500236
+delta_x: 0.000274611
+delta_y: -1.12212e-06
+delta_th: -6.88254e-05
+x: 0.0521884
+y: -9.48369e-05
+th: -0.00415502
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0.000274483
+delta_y: -1.14049e-06
+delta_th: -6.87932e-05
+x: 0.0524629
+y: -9.59773e-05
+th: -0.00422381
+
+
+Encoder=========================
+ocorrência: 134
+currentT: 1475085801.008806084
+lastT: 1475085800.758812713
+ticks_x: 516
+ticks_y: 501
+_PreviousLeftEncoderCounts: 505
+_PreviousRightEncoderCounts: 490
+deltatime: 0.249993
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0613463
+vy: 0.0613463
+
+MainOdom=================
+dt: 0.0503739
+delta_x: 0.000231767
+delta_y: -9.78947e-07
+delta_th: 0
+x: 0.0526947
+y: -9.69563e-05
+th: -0.00422381
+
+
+MainOdom=================
+dt: 0.0496162
+delta_x: 0.000228281
+delta_y: -9.64222e-07
+delta_th: 0
+x: 0.0529229
+y: -9.79205e-05
+th: -0.00422381
+
+
+MainOdom=================
+dt: 0.0500452
+delta_x: 0.000230254
+delta_y: -9.72557e-07
+delta_th: 0
+x: 0.0531532
+y: -9.88931e-05
+th: -0.00422381
+
+
+MainOdom=================
+dt: 0.0499539
+delta_x: 0.000229835
+delta_y: -9.70785e-07
+delta_th: 0
+x: 0.053383
+y: -9.98639e-05
+th: -0.00422381
+
+
+Encoder=========================
+ocorrência: 135
+currentT: 1475085801.208824657
+lastT: 1475085801.008806084
+ticks_x: 527
+ticks_y: 511
+_PreviousLeftEncoderCounts: 516
+_PreviousRightEncoderCounts: 501
+deltatime: 0.200019
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766738
+vy: 0.0697034
+
+MainOdom=================
+dt: 0.050334
+delta_x: 0.000276288
+delta_y: -1.167e-06
+delta_th: -6.92458e-05
+x: 0.0536593
+y: -0.000101031
+th: -0.00429306
+
+
+MainOdom=================
+dt: 0.0497245
+delta_x: 0.000272942
+delta_y: -1.17176e-06
+delta_th: -6.84072e-05
+x: 0.0539323
+y: -0.000102203
+th: -0.00436147
+
+
+MainOdom=================
+dt: 0.0499577
+delta_x: 0.000274222
+delta_y: -1.19602e-06
+delta_th: -6.87281e-05
+x: 0.0542065
+y: -0.000103399
+th: -0.00443019
+
+
+MainOdom=================
+dt: 0.0500022
+delta_x: 0.000274466
+delta_y: -1.21595e-06
+delta_th: -6.87892e-05
+x: 0.054481
+y: -0.000104615
+th: -0.00449898
+
+
+Encoder=========================
+ocorrência: 136
+currentT: 1475085801.408801703
+lastT: 1475085801.208824657
+ticks_x: 538
+ticks_y: 521
+_PreviousLeftEncoderCounts: 527
+_PreviousRightEncoderCounts: 511
+deltatime: 0.199977
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766897
+vy: 0.0697179
+
+MainOdom=================
+dt: 0.0503553
+delta_x: 0.000276462
+delta_y: -1.24381e-06
+delta_th: -6.92895e-05
+x: 0.0547574
+y: -0.000105858
+th: -0.00456827
+
+
+MainOdom=================
+dt: 0.0496423
+delta_x: 0.000272548
+delta_y: -1.24508e-06
+delta_th: -6.83084e-05
+x: 0.05503
+y: -0.000107103
+th: -0.00463658
+
+
+MainOdom=================
+dt: 0.049983
+delta_x: 0.000274418
+delta_y: -1.27237e-06
+delta_th: -6.87772e-05
+x: 0.0553044
+y: -0.000108376
+th: -0.00470536
+
+
+MainOdom=================
+dt: 0.0499983
+delta_x: 0.000274502
+delta_y: -1.29164e-06
+delta_th: -6.87982e-05
+x: 0.0555789
+y: -0.000109667
+th: -0.00477416
+
+
+Encoder=========================
+ocorrência: 137
+currentT: 1475085801.608788481
+lastT: 1475085801.408801703
+ticks_x: 550
+ticks_y: 531
+_PreviousLeftEncoderCounts: 538
+_PreviousRightEncoderCounts: 521
+deltatime: 0.199987
+deltaLeft: 12
+deltaRight: 10
+vx: 0.0836574
+vy: 0.0697145
+
+MainOdom=================
+dt: 0.0502932
+delta_x: 0.000289256
+delta_y: -1.38096e-06
+delta_th: -0.000138401
+x: 0.0558681
+y: -0.000111048
+th: -0.00491256
+
+
+MainOdom=================
+dt: 0.0497188
+delta_x: 0.000285952
+delta_y: -1.40477e-06
+delta_th: -0.000136821
+x: 0.0561541
+y: -0.000112453
+th: -0.00504938
+
+
+MainOdom=================
+dt: 0.0500105
+delta_x: 0.000287629
+delta_y: -1.45236e-06
+delta_th: -0.000137623
+x: 0.0564417
+y: -0.000113906
+th: -0.005187
+
+
+MainOdom=================
+dt: 0.050012
+delta_x: 0.000287638
+delta_y: -1.49199e-06
+delta_th: -0.000137628
+x: 0.0567294
+y: -0.000115398
+th: -0.00532463
+
+
+Encoder=========================
+ocorrência: 138
+currentT: 1475085801.808831105
+lastT: 1475085801.608788481
+ticks_x: 561
+ticks_y: 541
+_PreviousLeftEncoderCounts: 550
+_PreviousRightEncoderCounts: 531
+deltatime: 0.200043
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766645
+vy: 0.069695
+
+MainOdom=================
+dt: 0.0504752
+delta_x: 0.000277028
+delta_y: -1.47509e-06
+delta_th: -6.94316e-05
+x: 0.0570064
+y: -0.000116873
+th: -0.00539406
+
+
+MainOdom=================
+dt: 0.049509
+delta_x: 0.000271725
+delta_y: -1.46572e-06
+delta_th: -6.81026e-05
+x: 0.0572781
+y: -0.000118338
+th: -0.00546216
+
+
+MainOdom=================
+dt: 0.0499977
+delta_x: 0.000274407
+delta_y: -1.49887e-06
+delta_th: -6.87748e-05
+x: 0.0575525
+y: -0.000119837
+th: -0.00553094
+
+
+MainOdom=================
+dt: 0.0499843
+delta_x: 0.000274334
+delta_y: -1.51734e-06
+delta_th: -6.87564e-05
+x: 0.0578269
+y: -0.000121355
+th: -0.00559969
+
+
+Encoder=========================
+ocorrência: 139
+currentT: 1475085802.008818324
+lastT: 1475085801.808831105
+ticks_x: 572
+ticks_y: 551
+_PreviousLeftEncoderCounts: 561
+_PreviousRightEncoderCounts: 541
+deltatime: 0.199987
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766858
+vy: 0.0697144
+
+MainOdom=================
+dt: 0.05062
+delta_x: 0.0002779
+delta_y: -1.55617e-06
+delta_th: -6.96502e-05
+x: 0.0581048
+y: -0.000122911
+th: -0.00566934
+
+
+MainOdom=================
+dt: 0.049379
+delta_x: 0.000271086
+delta_y: -1.5369e-06
+delta_th: -6.79426e-05
+x: 0.0583758
+y: -0.000124448
+th: -0.00573729
+
+
+MainOdom=================
+dt: 0.050032
+delta_x: 0.000274671
+delta_y: -1.57588e-06
+delta_th: -6.8841e-05
+x: 0.0586505
+y: -0.000126024
+th: -0.00580613
+
+
+MainOdom=================
+dt: 0.0499856
+delta_x: 0.000274417
+delta_y: -1.59332e-06
+delta_th: -6.87773e-05
+x: 0.0589249
+y: -0.000127617
+th: -0.00587491
+
+
+Encoder=========================
+ocorrência: 140
+currentT: 1475085802.208818816
+lastT: 1475085802.008818324
+ticks_x: 583
+ticks_y: 561
+_PreviousLeftEncoderCounts: 572
+_PreviousRightEncoderCounts: 551
+deltatime: 0.2
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766807
+vy: 0.0697097
+
+MainOdom=================
+dt: 0.0504529
+delta_x: 0.000276964
+delta_y: -1.62715e-06
+delta_th: -6.94157e-05
+x: 0.0592019
+y: -0.000129244
+th: -0.00594432
+
+
+MainOdom=================
+dt: 0.0495473
+delta_x: 0.000271992
+delta_y: -1.61683e-06
+delta_th: -6.81696e-05
+x: 0.0594739
+y: -0.000130861
+th: -0.00601249
+
+
+MainOdom=================
+dt: 0.0499801
+delta_x: 0.000274368
+delta_y: -1.64965e-06
+delta_th: -6.87651e-05
+x: 0.0597483
+y: -0.00013251
+th: -0.00608126
+
+
+MainOdom=================
+dt: 0.0500033
+delta_x: 0.000274495
+delta_y: -1.6693e-06
+delta_th: -6.87971e-05
+x: 0.0600227
+y: -0.00013418
+th: -0.00615005
+
+
+Encoder=========================
+ocorrência: 141
+currentT: 1475085802.408824289
+lastT: 1475085802.208818816
+ticks_x: 594
+ticks_y: 572
+_PreviousLeftEncoderCounts: 583
+_PreviousRightEncoderCounts: 561
+deltatime: 0.200005
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766788
+vy: 0.0766788
+
+MainOdom=================
+dt: 0.0503831
+delta_x: 0.000289743
+delta_y: -1.78196e-06
+delta_th: 0
+x: 0.0603125
+y: -0.000135962
+th: -0.00615005
+
+
+MainOdom=================
+dt: 0.0496461
+delta_x: 0.000285505
+delta_y: -1.75589e-06
+delta_th: 0
+x: 0.060598
+y: -0.000137718
+th: -0.00615005
+
+
+MainOdom=================
+dt: 0.0499882
+delta_x: 0.000287472
+delta_y: -1.76799e-06
+delta_th: 0
+x: 0.0608855
+y: -0.000139486
+th: -0.00615005
+
+
+MainOdom=================
+dt: 0.049998
+delta_x: 0.000287528
+delta_y: -1.76834e-06
+delta_th: 0
+x: 0.061173
+y: -0.000141254
+th: -0.00615005
+
+
+Encoder=========================
+ocorrência: 142
+currentT: 1475085802.608817559
+lastT: 1475085802.408824289
+ticks_x: 605
+ticks_y: 583
+_PreviousLeftEncoderCounts: 594
+_PreviousRightEncoderCounts: 572
+deltatime: 0.199993
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766835
+vy: 0.0766835
+
+MainOdom=================
+dt: 0.0504039
+delta_x: 0.00028988
+delta_y: -1.7828e-06
+delta_th: 0
+x: 0.0614629
+y: -0.000143037
+th: -0.00615005
+
+
+MainOdom=================
+dt: 0.0495967
+delta_x: 0.000285238
+delta_y: -1.75425e-06
+delta_th: 0
+x: 0.0617481
+y: -0.000144791
+th: -0.00615005
+
+
+MainOdom=================
+dt: 0.049999
+delta_x: 0.000287552
+delta_y: -1.76848e-06
+delta_th: 0
+x: 0.0620357
+y: -0.000146559
+th: -0.00615005
+
+
+MainOdom=================
+dt: 0.0499925
+delta_x: 0.000287515
+delta_y: -1.76825e-06
+delta_th: 0
+x: 0.0623232
+y: -0.000148328
+th: -0.00615005
+
+
+Encoder=========================
+ocorrência: 143
+currentT: 1475085802.808798884
+lastT: 1475085802.608817559
+ticks_x: 616
+ticks_y: 593
+_PreviousLeftEncoderCounts: 605
+_PreviousRightEncoderCounts: 583
+deltatime: 0.199981
+deltaLeft: 11
+deltaRight: 10
+vx: 0.076688
+vy: 0.0697164
+
+MainOdom=================
+dt: 0.0503343
+delta_x: 0.000276338
+delta_y: -1.69952e-06
+delta_th: -6.9259e-05
+x: 0.0625995
+y: -0.000150027
+th: -0.00621931
+
+
+MainOdom=================
+dt: 0.0496747
+delta_x: 0.000272717
+delta_y: -1.69614e-06
+delta_th: -6.83515e-05
+x: 0.0628722
+y: -0.000151723
+th: -0.00628766
+
+
+MainOdom=================
+dt: 0.0500098
+delta_x: 0.000274557
+delta_y: -1.72634e-06
+delta_th: -6.88126e-05
+x: 0.0631468
+y: -0.00015345
+th: -0.00635648
+
+
+MainOdom=================
+dt: 0.0500014
+delta_x: 0.000274511
+delta_y: -1.74494e-06
+delta_th: -6.88011e-05
+x: 0.0634213
+y: -0.000155195
+th: -0.00642528
+
+
+Encoder=========================
+ocorrência: 144
+currentT: 1475085803.008800872
+lastT: 1475085802.808798884
+ticks_x: 627
+ticks_y: 604
+_PreviousLeftEncoderCounts: 616
+_PreviousRightEncoderCounts: 593
+deltatime: 0.200002
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766801
+vy: 0.0766801
+
+MainOdom=================
+dt: 0.0504234
+delta_x: 0.000289979
+delta_y: -1.86322e-06
+delta_th: 0
+x: 0.0637113
+y: -0.000157058
+th: -0.00642528
+
+
+MainOdom=================
+dt: 0.0495511
+delta_x: 0.000284963
+delta_y: -1.83099e-06
+delta_th: 0
+x: 0.0639962
+y: -0.000158889
+th: -0.00642528
+
+
+MainOdom=================
+dt: 0.0500112
+delta_x: 0.000287609
+delta_y: -1.84799e-06
+delta_th: 0
+x: 0.0642839
+y: -0.000160737
+th: -0.00642528
+
+
+MainOdom=================
+dt: 0.0499984
+delta_x: 0.000287536
+delta_y: -1.84752e-06
+delta_th: 0
+x: 0.0645714
+y: -0.000162584
+th: -0.00642528
+
+
+Encoder=========================
+ocorrência: 145
+currentT: 1475085803.208823771
+lastT: 1475085803.008800872
+ticks_x: 638
+ticks_y: 614
+_PreviousLeftEncoderCounts: 627
+_PreviousRightEncoderCounts: 604
+deltatime: 0.200023
+deltaLeft: 11
+deltaRight: 10
+vx: 0.0766721
+vy: 0.0697019
+
+MainOdom=================
+dt: 0.05038
+delta_x: 0.000276531
+delta_y: -1.77681e-06
+delta_th: -6.93075e-05
+x: 0.0648479
+y: -0.000164361
+th: -0.00649458
+
+
+MainOdom=================
+dt: 0.0496169
+delta_x: 0.000272343
+delta_y: -1.76878e-06
+delta_th: -6.82578e-05
+x: 0.0651203
+y: -0.00016613
+th: -0.00656284
+
+
+MainOdom=================
+dt: 0.050006
+delta_x: 0.000274478
+delta_y: -1.80138e-06
+delta_th: -6.87931e-05
+x: 0.0653947
+y: -0.000167931
+th: -0.00663164
+
+
+MainOdom=================
+dt: 0.0500021
+delta_x: 0.000274457
+delta_y: -1.82012e-06
+delta_th: -6.87876e-05
+x: 0.0656692
+y: -0.000169752
+th: -0.00670042
+
+
+Encoder=========================
+ocorrência: 146
+currentT: 1475085803.408802309
+lastT: 1475085803.208823771
+ticks_x: 649
+ticks_y: 625
+_PreviousLeftEncoderCounts: 638
+_PreviousRightEncoderCounts: 614
+deltatime: 0.199979
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766891
+vy: 0.0766891
+
+MainOdom=================
+dt: 0.0502773
+delta_x: 0.000289173
+delta_y: -1.93761e-06
+delta_th: 0
+x: 0.0659584
+y: -0.000171689
+th: -0.00670042
+
+
+MainOdom=================
+dt: 0.0497218
+delta_x: 0.000285978
+delta_y: -1.9162e-06
+delta_th: 0
+x: 0.0662444
+y: -0.000173605
+th: -0.00670042
+
+
+MainOdom=================
+dt: 0.0499994
+delta_x: 0.000287574
+delta_y: -1.9269e-06
+delta_th: 0
+x: 0.0665319
+y: -0.000175532
+th: -0.00670042
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0.000287579
+delta_y: -1.92693e-06
+delta_th: 0
+x: 0.0668195
+y: -0.000177459
+th: -0.00670042
+
+
+MainOdom=================
+dt: 0.0499999
+delta_x: 0.000287577
+delta_y: -1.92692e-06
+delta_th: 0
+x: 0.0671071
+y: -0.000179386
+th: -0.00670042
+
+
+Encoder=========================
+ocorrência: 147
+currentT: 1475085803.658823969
+lastT: 1475085803.408802309
+ticks_x: 660
+ticks_y: 636
+_PreviousLeftEncoderCounts: 649
+_PreviousRightEncoderCounts: 625
+deltatime: 0.250022
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0613394
+vy: 0.0613394
+
+MainOdom=================
+dt: 0.0503726
+delta_x: 0.000231732
+delta_y: -1.55272e-06
+delta_th: 0
+x: 0.0673388
+y: -0.000180939
+th: -0.00670042
+
+
+MainOdom=================
+dt: 0.049609
+delta_x: 0.000228219
+delta_y: -1.52919e-06
+delta_th: 0
+x: 0.067567
+y: -0.000182468
+th: -0.00670042
+
+
+MainOdom=================
+dt: 0.0500265
+delta_x: 0.000230139
+delta_y: -1.54205e-06
+delta_th: 0
+x: 0.0677972
+y: -0.00018401
+th: -0.00670042
+
+
+MainOdom=================
+dt: 0.0499885
+delta_x: 0.000229965
+delta_y: -1.54088e-06
+delta_th: 0
+x: 0.0680271
+y: -0.000185551
+th: -0.00670042
+
+
+Encoder=========================
+ocorrência: 148
+currentT: 1475085803.858822396
+lastT: 1475085803.658823969
+ticks_x: 672
+ticks_y: 646
+_PreviousLeftEncoderCounts: 660
+_PreviousRightEncoderCounts: 636
+deltatime: 0.199998
+deltaLeft: 12
+deltaRight: 10
+vx: 0.0836525
+vy: 0.0697104
+
+MainOdom=================
+dt: 0.0503591
+delta_x: 0.000289615
+delta_y: -1.94057e-06
+delta_th: -0.000138575
+x: 0.0683167
+y: -0.000187491
+th: -0.006839
+
+
+MainOdom=================
+dt: 0.0496508
+delta_x: 0.00028554
+delta_y: -1.95284e-06
+delta_th: -0.000136625
+x: 0.0686023
+y: -0.000189444
+th: -0.00697562
+
+
+MainOdom=================
+dt: 0.0500037
+delta_x: 0.00028757
+delta_y: -2.00601e-06
+delta_th: -0.000137596
+x: 0.0688899
+y: -0.00019145
+th: -0.00711322
+
+
+MainOdom=================
+dt: 0.0499931
+delta_x: 0.000287509
+delta_y: -2.04515e-06
+delta_th: -0.000137567
+x: 0.0691774
+y: -0.000193495
+th: -0.00725079
+
+
+Encoder=========================
+ocorrência: 149
+currentT: 1475085804.058814040
+lastT: 1475085803.858822396
+ticks_x: 682
+ticks_y: 657
+_PreviousLeftEncoderCounts: 672
+_PreviousRightEncoderCounts: 646
+deltatime: 0.199992
+deltaLeft: 10
+deltaRight: 11
+vx: 0.0697128
+vy: 0.0766841
+
+MainOdom=================
+dt: 0.0503252
+delta_x: 0.000276272
+delta_y: -2.00323e-06
+delta_th: 6.9243e-05
+x: 0.0694536
+y: -0.000195499
+th: -0.00718154
+
+
+MainOdom=================
+dt: 0.0496727
+delta_x: 0.00027269
+delta_y: -1.95837e-06
+delta_th: 6.83452e-05
+x: 0.0697263
+y: -0.000197457
+th: -0.0071132
+
+
+MainOdom=================
+dt: 0.0499987
+delta_x: 0.00027448
+delta_y: -1.95247e-06
+delta_th: 6.87938e-05
+x: 0.0700008
+y: -0.00019941
+th: -0.00704441
+
+
+MainOdom=================
+dt: 0.0499885
+delta_x: 0.000274424
+delta_y: -1.93319e-06
+delta_th: 6.87797e-05
+x: 0.0702752
+y: -0.000201343
+th: -0.00697563
+
+
+Encoder=========================
+ocorrência: 150
+currentT: 1475085804.258826402
+lastT: 1475085804.058814040
+ticks_x: 694
+ticks_y: 668
+_PreviousLeftEncoderCounts: 682
+_PreviousRightEncoderCounts: 657
+deltatime: 0.200012
+deltaLeft: 12
+deltaRight: 11
+vx: 0.0836467
+vy: 0.0766761
+
+MainOdom=================
+dt: 0.0502768
+delta_x: 0.000302262
+delta_y: -2.1085e-06
+delta_th: -6.91692e-05
+x: 0.0705775
+y: -0.000203451
+th: -0.00704479
+
+
+MainOdom=================
+dt: 0.0497296
+delta_x: 0.000298972
+delta_y: -2.10623e-06
+delta_th: -6.84164e-05
+x: 0.0708765
+y: -0.000205557
+th: -0.00711321
+
+
+MainOdom=================
+dt: 0.0500075
+delta_x: 0.000300643
+delta_y: -2.13857e-06
+delta_th: -6.87987e-05
+x: 0.0711771
+y: -0.000207696
+th: -0.00718201
+
+
+MainOdom=================
+dt: 0.0499936
+delta_x: 0.000300559
+delta_y: -2.15866e-06
+delta_th: -6.87797e-05
+x: 0.0714777
+y: -0.000209855
+th: -0.00725079
+
+
+Encoder=========================
+ocorrência: 151
+currentT: 1475085804.458798114
+lastT: 1475085804.258826402
+ticks_x: 705
+ticks_y: 679
+_PreviousLeftEncoderCounts: 694
+_PreviousRightEncoderCounts: 668
+deltatime: 0.199972
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766917
+vy: 0.0766917
+
+MainOdom=================
+dt: 0.0503147
+delta_x: 0.000289397
+delta_y: -2.09839e-06
+delta_th: 0
+x: 0.0717671
+y: -0.000211953
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.049664
+delta_x: 0.000285654
+delta_y: -2.07125e-06
+delta_th: 0
+x: 0.0720527
+y: -0.000214024
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0500032
+delta_x: 0.000287605
+delta_y: -2.0854e-06
+delta_th: 0
+x: 0.0723403
+y: -0.00021611
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0500145
+delta_x: 0.00028767
+delta_y: -2.08587e-06
+delta_th: 0
+x: 0.072628
+y: -0.000218196
+th: -0.00725079
+
+
+Encoder=========================
+ocorrência: 152
+currentT: 1475085804.658821020
+lastT: 1475085804.458798114
+ticks_x: 716
+ticks_y: 690
+_PreviousLeftEncoderCounts: 705
+_PreviousRightEncoderCounts: 679
+deltatime: 0.200023
+deltaLeft: 11
+deltaRight: 11
+vx: 0.0766721
+vy: 0.0766721
+
+MainOdom=================
+dt: 0.0502212
+delta_x: 0.000288785
+delta_y: -2.09396e-06
+delta_th: 0
+x: 0.0729168
+y: -0.00022029
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0497778
+delta_x: 0.000286235
+delta_y: -2.07547e-06
+delta_th: 0
+x: 0.073203
+y: -0.000222365
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0500137
+delta_x: 0.000287591
+delta_y: -2.0853e-06
+delta_th: 0
+x: 0.0734906
+y: -0.00022445
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0499822
+delta_x: 0.00028741
+delta_y: -2.08399e-06
+delta_th: 0
+x: 0.073778
+y: -0.000226534
+th: -0.00725079
+
+
+Encoder=========================
+ocorrência: 153
+currentT: 1475085804.858813648
+lastT: 1475085804.658821020
+ticks_x: 726
+ticks_y: 700
+_PreviousLeftEncoderCounts: 716
+_PreviousRightEncoderCounts: 690
+deltatime: 0.199993
+deltaLeft: 10
+deltaRight: 10
+vx: 0.0697125
+vy: 0.0697125
+
+MainOdom=================
+dt: 0.0501823
+delta_x: 0.000262368
+delta_y: -1.90241e-06
+delta_th: 0
+x: 0.0740404
+y: -0.000228437
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0498799
+delta_x: 0.000260787
+delta_y: -1.89095e-06
+delta_th: 0
+x: 0.0743012
+y: -0.000230328
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0499643
+delta_x: 0.000261228
+delta_y: -1.89414e-06
+delta_th: 0
+x: 0.0745624
+y: -0.000232222
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0499827
+delta_x: 0.000261324
+delta_y: -1.89484e-06
+delta_th: 0
+x: 0.0748237
+y: -0.000234117
+th: -0.00725079
+
+
+Encoder=========================
+ocorrência: 154
+currentT: 1475085805.058815813
+lastT: 1475085804.858813648
+ticks_x: 739
+ticks_y: 713
+_PreviousLeftEncoderCounts: 726
+_PreviousRightEncoderCounts: 700
+deltatime: 0.200002
+deltaLeft: 13
+deltaRight: 13
+vx: 0.0906219
+vy: 0.0906219
+
+MainOdom=================
+dt: 0.0502709
+delta_x: 0.000341664
+delta_y: -2.47738e-06
+delta_th: 0
+x: 0.0751654
+y: -0.000236594
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0497428
+delta_x: 0.000338075
+delta_y: -2.45135e-06
+delta_th: 0
+x: 0.0755035
+y: -0.000239045
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0500003
+delta_x: 0.000339825
+delta_y: -2.46404e-06
+delta_th: 0
+x: 0.0758433
+y: -0.000241509
+th: -0.00725079
+
+
+MainOdom=================
+dt: 0.0499749
+delta_x: 0.000339653
+delta_y: -2.46279e-06
+delta_th: 0
+x: 0.0761829
+y: -0.000243972
+th: -0.00725079
+
+
+Encoder=========================
+ocorrência: 155
+currentT: 1475085805.258820772
+lastT: 1475085805.058815813
+ticks_x: 771
+ticks_y: 741
+_PreviousLeftEncoderCounts: 739
+_PreviousRightEncoderCounts: 713
+deltatime: 0.200005
+deltaLeft: 32
+deltaRight: 28
+vx: 0.223066
+vy: 0.195183
+
+MainOdom=================
+dt: 0.0502775
+delta_x: 0.000788548
+delta_y: -5.7177e-06
+delta_th: -0.000276691
+x: 0.0769715
+y: -0.00024969
+th: -0.00752748
+
+
+MainOdom=================
+dt: 0.0497519
+delta_x: 0.000780303
+delta_y: -5.87383e-06
+delta_th: -0.000273798
+x: 0.0777518
+y: -0.000255564
+th: -0.00780128
+
+
+MainOdom=================
+dt: 0.0499947
+delta_x: 0.00078411
+delta_y: -6.11718e-06
+delta_th: -0.000275135
+x: 0.0785359
+y: -0.000261681
+th: -0.00807641
+
+
+MainOdom=================
+dt: 0.0499879
+delta_x: 0.000784002
+delta_y: -6.33206e-06
+delta_th: -0.000275097
+x: 0.0793199
+y: -0.000268013
+th: -0.00835151
+
+
+Encoder=========================
+ocorrência: 156
+currentT: 1475085805.458814772
+lastT: 1475085805.258820772
+ticks_x: 804
+ticks_y: 769
+_PreviousLeftEncoderCounts: 771
+_PreviousRightEncoderCounts: 741
+deltatime: 0.199994
+deltaLeft: 33
+deltaRight: 28
+vx: 0.23005
+vy: 0.195194
+
+MainOdom=================
+dt: 0.0502159
+delta_x: 0.000800746
+delta_y: -6.68759e-06
+delta_th: -0.000345459
+x: 0.0801207
+y: -0.000274701
+th: -0.00869697
+
+
+MainOdom=================
+dt: 0.0497942
+delta_x: 0.000794019
+delta_y: -6.90574e-06
+delta_th: -0.000342558
+x: 0.0809147
+y: -0.000281606
+th: -0.00903953
+
+
+MainOdom=================
+dt: 0.0500019
+delta_x: 0.000797328
+delta_y: -7.20767e-06
+delta_th: -0.000343987
+x: 0.081712
+y: -0.000288814
+th: -0.00938351
+
+
+MainOdom=================
+dt: 0.0499698
+delta_x: 0.000796814
+delta_y: -7.47714e-06
+delta_th: -0.000343766
+x: 0.0825088
+y: -0.000296291
+th: -0.00972728
+
+
+Encoder=========================
+ocorrência: 157
+currentT: 1475085805.658789099
+lastT: 1475085805.458814772
+ticks_x: 836
+ticks_y: 798
+_PreviousLeftEncoderCounts: 804
+_PreviousRightEncoderCounts: 769
+deltatime: 0.199974
+deltaLeft: 32
+deltaRight: 29
+vx: 0.2231
+vy: 0.202185
+
+MainOdom=================
+dt: 0.0502322
+delta_x: 0.000801074
+delta_y: -7.79251e-06
+delta_th: -0.000207363
+x: 0.0833099
+y: -0.000304084
+th: -0.00993464
+
+
+MainOdom=================
+dt: 0.0498001
+delta_x: 0.000794183
+delta_y: -7.89018e-06
+delta_th: -0.000205579
+x: 0.0841041
+y: -0.000311974
+th: -0.0101402
+
+
+MainOdom=================
+dt: 0.0499986
+delta_x: 0.000797347
+delta_y: -8.08555e-06
+delta_th: -0.000206399
+x: 0.0849014
+y: -0.000320059
+th: -0.0103466
+
+
+MainOdom=================
+dt: 0.0500129
+delta_x: 0.000797572
+delta_y: -8.25247e-06
+delta_th: -0.000206458
+x: 0.085699
+y: -0.000328312
+th: -0.0105531
+
+
+Encoder=========================
+ocorrência: 158
+currentT: 1475085805.858812931
+lastT: 1475085805.658789099
+ticks_x: 869
+ticks_y: 827
+_PreviousLeftEncoderCounts: 836
+_PreviousRightEncoderCounts: 798
+deltatime: 0.200024
+deltaLeft: 33
+deltaRight: 29
+vx: 0.230015
+vy: 0.202135
+
+MainOdom=================
+dt: 0.0502722
+delta_x: 0.000814647
+delta_y: -8.59736e-06
+delta_th: -0.000276636
+x: 0.0865136
+y: -0.000336909
+th: -0.0108297
+
+
+MainOdom=================
+dt: 0.0497351
+delta_x: 0.000805941
+delta_y: -8.72846e-06
+delta_th: -0.00027368
+x: 0.0873196
+y: -0.000345638
+th: -0.0111034
+
+
+MainOdom=================
+dt: 0.0499672
+delta_x: 0.000809699
+delta_y: -8.99078e-06
+delta_th: -0.000274957
+x: 0.0881293
+y: -0.000354628
+th: -0.0113784
+
+
+MainOdom=================
+dt: 0.0500002
+delta_x: 0.000810232
+delta_y: -9.2195e-06
+delta_th: -0.000275139
+x: 0.0889395
+y: -0.000363848
+th: -0.0116535
+
+
+Encoder=========================
+ocorrência: 159
+currentT: 1475085806.058822363
+lastT: 1475085805.858812931
+ticks_x: 902
+ticks_y: 855
+_PreviousLeftEncoderCounts: 869
+_PreviousRightEncoderCounts: 827
+deltatime: 0.200009
+deltaLeft: 33
+deltaRight: 28
+vx: 0.230032
+vy: 0.195179
+
+MainOdom=================
+dt: 0.0504279
+delta_x: 0.000804037
+delta_y: -9.37027e-06
+delta_th: -0.00034689
+x: 0.0897435
+y: -0.000373218
+th: -0.0120004
+
+
+MainOdom=================
+dt: 0.049588
+delta_x: 0.000790643
+delta_y: -9.48848e-06
+delta_th: -0.000341113
+x: 0.0905342
+y: -0.000382707
+th: -0.0123415
+
+
+MainOdom=================
+dt: 0.0499856
+delta_x: 0.000796978
+delta_y: -9.8364e-06
+delta_th: -0.000343848
+x: 0.0913312
+y: -0.000392543
+th: -0.0126853
+
+
+MainOdom=================
+dt: 0.0499985
+delta_x: 0.000797182
+delta_y: -1.01131e-05
+delta_th: -0.000343937
+x: 0.0921283
+y: -0.000402656
+th: -0.0130293
+
+
+MainOdom=================
+dt: 0.0500028
+delta_x: 0.000797246
+delta_y: -1.03881e-05
+delta_th: -0.000343966
+x: 0.0929256
+y: -0.000413044
+th: -0.0133732
+
+
+Encoder=========================
+ocorrência: 160
+currentT: 1475085806.308812603
+lastT: 1475085806.058822363
+ticks_x: 934
+ticks_y: 883
+_PreviousLeftEncoderCounts: 902
+_PreviousRightEncoderCounts: 855
+deltatime: 0.24999
+deltaLeft: 32
+deltaRight: 28
+vx: 0.178464
+vy: 0.156156
+
+MainOdom=================
+dt: 0.0504089
+delta_x: 0.000632488
+delta_y: -8.45892e-06
+delta_th: -0.000221946
+x: 0.0935581
+y: -0.000421503
+th: -0.0135952
+
+
+MainOdom=================
+dt: 0.0495892
+delta_x: 0.000622201
+delta_y: -8.45947e-06
+delta_th: -0.000218336
+x: 0.0941803
+y: -0.000429963
+th: -0.0138135
+
+
+MainOdom=================
+dt: 0.0499865
+delta_x: 0.000627184
+delta_y: -8.66418e-06
+delta_th: -0.000220086
+x: 0.0948075
+y: -0.000438627
+th: -0.0140336
+
+
+MainOdom=================
+dt: 0.0500245
+delta_x: 0.00062766
+delta_y: -8.80891e-06
+delta_th: -0.000220253
+x: 0.0954351
+y: -0.000447436
+th: -0.0142539
+
+
+Encoder=========================
+ocorrência: 161
+currentT: 1475085806.508810182
+lastT: 1475085806.308812603
+ticks_x: 967
+ticks_y: 911
+_PreviousLeftEncoderCounts: 934
+_PreviousRightEncoderCounts: 883
+deltatime: 0.199998
+deltaLeft: 33
+deltaRight: 28
+vx: 0.230045
+vy: 0.19519
+
+MainOdom=================
+dt: 0.0503397
+delta_x: 0.000802652
+delta_y: -1.14417e-05
+delta_th: -0.000346304
+x: 0.0962378
+y: -0.000458877
+th: -0.0146002
+
+
+MainOdom=================
+dt: 0.0496635
+delta_x: 0.000791867
+delta_y: -1.15622e-05
+delta_th: -0.000341653
+x: 0.0970296
+y: -0.00047044
+th: -0.0149418
+
+
+MainOdom=================
+dt: 0.0499972
+delta_x: 0.000797184
+delta_y: -1.19123e-05
+delta_th: -0.000343948
+x: 0.0978268
+y: -0.000482352
+th: -0.0152858
+
+
+MainOdom=================
+dt: 0.0500049
+delta_x: 0.000797302
+delta_y: -1.21883e-05
+delta_th: -0.000344001
+x: 0.0986241
+y: -0.00049454
+th: -0.0156298
+
+
+Encoder=========================
+ocorrência: 162
+currentT: 1475085806.708808431
+lastT: 1475085806.508810182
+ticks_x: 1000
+ticks_y: 939
+_PreviousLeftEncoderCounts: 967
+_PreviousRightEncoderCounts: 911
+deltatime: 0.199998
+deltaLeft: 33
+deltaRight: 28
+vx: 0.230045
+vy: 0.195189
+
+MainOdom=================
+dt: 0.0503333
+delta_x: 0.000802531
+delta_y: -1.25444e-05
+delta_th: -0.000346259
+x: 0.0994267
+y: -0.000507085
+th: -0.015976
+
+
+MainOdom=================
+dt: 0.0496339
+delta_x: 0.000791375
+delta_y: -1.26441e-05
+delta_th: -0.000341448
+x: 0.100218
+y: -0.000519729
+th: -0.0163175
+
+
+MainOdom=================
+dt: 0.0499957
+delta_x: 0.000797139
+delta_y: -1.30085e-05
+delta_th: -0.000343937
+x: 0.101015
+y: -0.000532737
+th: -0.0166614
+
+
+MainOdom=================
+dt: 0.0500015
+delta_x: 0.000797228
+delta_y: -1.32842e-05
+delta_th: -0.000343977
+x: 0.101812
+y: -0.000546021
+th: -0.0170054
+
+
+Encoder=========================
+ocorrência: 163
+currentT: 1475085806.908820268
+lastT: 1475085806.708808431
+ticks_x: 1032
+ticks_y: 967
+_PreviousLeftEncoderCounts: 1000
+_PreviousRightEncoderCounts: 939
+deltatime: 0.200012
+deltaLeft: 32
+deltaRight: 28
+vx: 0.223058
+vy: 0.195176
+
+MainOdom=================
+dt: 0.0503445
+delta_x: 0.000789478
+delta_y: -1.34267e-05
+delta_th: -0.00027705
+x: 0.102602
+y: -0.000559448
+th: -0.0172824
+
+
+MainOdom=================
+dt: 0.0496575
+delta_x: 0.000778702
+delta_y: -1.34592e-05
+delta_th: -0.00027327
+x: 0.103381
+y: -0.000572907
+th: -0.0175557
+
+
+MainOdom=================
+dt: 0.0500126
+delta_x: 0.000784267
+delta_y: -1.37698e-05
+delta_th: -0.000275224
+x: 0.104165
+y: -0.000586677
+th: -0.0178309
+
+
+MainOdom=================
+dt: 0.0499976
+delta_x: 0.000784027
+delta_y: -1.39814e-05
+delta_th: -0.000275141
+x: 0.104949
+y: -0.000600658
+th: -0.0181061
+
+
+Encoder=========================
+ocorrência: 164
+currentT: 1475085807.108808549
+lastT: 1475085806.908820268
+ticks_x: 1065
+ticks_y: 996
+_PreviousLeftEncoderCounts: 1032
+_PreviousRightEncoderCounts: 967
+deltatime: 0.199988
+deltaLeft: 33
+deltaRight: 29
+vx: 0.230056
+vy: 0.202171
+
+MainOdom=================
+dt: 0.0502634
+delta_x: 0.000814561
+delta_y: -1.47501e-05
+delta_th: -0.000276637
+x: 0.105763
+y: -0.000615409
+th: -0.0183827
+
+
+MainOdom=================
+dt: 0.0497451
+delta_x: 0.000806158
+delta_y: -1.4821e-05
+delta_th: -0.000273784
+x: 0.10657
+y: -0.00063023
+th: -0.0186565
+
+
+MainOdom=================
+dt: 0.0500069
+delta_x: 0.000810396
+delta_y: -1.51209e-05
+delta_th: -0.000275225
+x: 0.10738
+y: -0.000645351
+th: -0.0189317
+
+
+MainOdom=================
+dt: 0.0499963
+delta_x: 0.00081022
+delta_y: -1.53407e-05
+delta_th: -0.000275167
+x: 0.10819
+y: -0.000660691
+th: -0.0192069
+
+
+Encoder=========================
+ocorrência: 165
+currentT: 1475085807.308810751
+lastT: 1475085807.108808549
+ticks_x: 1098
+ticks_y: 1025
+_PreviousLeftEncoderCounts: 1065
+_PreviousRightEncoderCounts: 996
+deltatime: 0.200002
+deltaLeft: 33
+deltaRight: 29
+vx: 0.23004
+vy: 0.202156
+
+MainOdom=================
+dt: 0.0504149
+delta_x: 0.000816942
+delta_y: -1.56929e-05
+delta_th: -0.000277451
+x: 0.109007
+y: -0.000676384
+th: -0.0194843
+
+
+MainOdom=================
+dt: 0.0495895
+delta_x: 0.000803563
+delta_y: -1.56589e-05
+delta_th: -0.000272908
+x: 0.109811
+y: -0.000692043
+th: -0.0197573
+
+
+MainOdom=================
+dt: 0.0499809
+delta_x: 0.000809901
+delta_y: -1.60035e-05
+delta_th: -0.000275063
+x: 0.110621
+y: -0.000708046
+th: -0.0200323
+
+
+MainOdom=================
+dt: 0.0500206
+delta_x: 0.000810539
+delta_y: -1.62391e-05
+delta_th: -0.000275281
+x: 0.111431
+y: -0.000724286
+th: -0.0203076
+
+
+Encoder=========================
+ocorrência: 166
+currentT: 1475085807.508820888
+lastT: 1475085807.308810751
+ticks_x: 1130
+ticks_y: 1054
+_PreviousLeftEncoderCounts: 1098
+_PreviousRightEncoderCounts: 1025
+deltatime: 0.20001
+deltaLeft: 32
+deltaRight: 29
+vx: 0.22306
+vy: 0.202148
+
+MainOdom=================
+dt: 0.0503379
+delta_x: 0.000802489
+delta_y: -1.62989e-05
+delta_th: -0.000207762
+x: 0.112234
+y: -0.000740584
+th: -0.0205154
+
+
+MainOdom=================
+dt: 0.0496527
+delta_x: 0.000791562
+delta_y: -1.62415e-05
+delta_th: -0.000204934
+x: 0.113025
+y: -0.000756826
+th: -0.0207203
+
+
+MainOdom=================
+dt: 0.050008
+delta_x: 0.000797222
+delta_y: -1.6521e-05
+delta_th: -0.0002064
+x: 0.113822
+y: -0.000773347
+th: -0.0209267
+
+
+MainOdom=================
+dt: 0.0500104
+delta_x: 0.000797257
+delta_y: -1.66864e-05
+delta_th: -0.00020641
+x: 0.11462
+y: -0.000790033
+th: -0.0211331
+
+
+Encoder=========================
+ocorrência: 167
+currentT: 1475085807.708808449
+lastT: 1475085807.508820888
+ticks_x: 1162
+ticks_y: 1083
+_PreviousLeftEncoderCounts: 1130
+_PreviousRightEncoderCounts: 1054
+deltatime: 0.199988
+deltaLeft: 32
+deltaRight: 29
+vx: 0.223086
+vy: 0.202171
+
+MainOdom=================
+dt: 0.0504
+delta_x: 0.000803556
+delta_y: -1.69842e-05
+delta_th: -0.000208042
+x: 0.115423
+y: -0.000807018
+th: -0.0213411
+
+
+MainOdom=================
+dt: 0.0495736
+delta_x: 0.000790377
+delta_y: -1.68701e-05
+delta_th: -0.000204631
+x: 0.116214
+y: -0.000823888
+th: -0.0215458
+
+
+MainOdom=================
+dt: 0.0499991
+delta_x: 0.000797158
+delta_y: -1.7178e-05
+delta_th: -0.000206387
+x: 0.117011
+y: -0.000841066
+th: -0.0217522
+
+
+MainOdom=================
+dt: 0.0500207
+delta_x: 0.000797498
+delta_y: -1.735e-05
+delta_th: -0.000206476
+x: 0.117808
+y: -0.000858416
+th: -0.0219586
+
+
+Encoder=========================
+ocorrência: 168
+currentT: 1475085807.908828959
+lastT: 1475085807.708808449
+ticks_x: 1195
+ticks_y: 1112
+_PreviousLeftEncoderCounts: 1162
+_PreviousRightEncoderCounts: 1083
+deltatime: 0.200021
+deltaLeft: 33
+deltaRight: 29
+vx: 0.230019
+vy: 0.202138
+
+MainOdom=================
+dt: 0.0504624
+delta_x: 0.000817592
+delta_y: -1.79561e-05
+delta_th: -0.000277687
+x: 0.118626
+y: -0.000876372
+th: -0.0222363
+
+
+MainOdom=================
+dt: 0.0495189
+delta_x: 0.000802299
+delta_y: -1.78431e-05
+delta_th: -0.000272495
+x: 0.119428
+y: -0.000894215
+th: -0.0225088
+
+
+MainOdom=================
+dt: 0.0500043
+delta_x: 0.000810158
+delta_y: -1.82388e-05
+delta_th: -0.000275166
+x: 0.120238
+y: -0.000912454
+th: -0.022784
+
+
+MainOdom=================
+dt: 0.0500243
+delta_x: 0.000810477
+delta_y: -1.84691e-05
+delta_th: -0.000275276
+x: 0.121049
+y: -0.000930923
+th: -0.0230593
+
+
+Encoder=========================
+ocorrência: 169
+currentT: 1475085808.108812633
+lastT: 1475085807.908828959
+ticks_x: 1227
+ticks_y: 1141
+_PreviousLeftEncoderCounts: 1195
+_PreviousRightEncoderCounts: 1112
+deltatime: 0.199984
+deltaLeft: 32
+deltaRight: 29
+vx: 0.22309
+vy: 0.202175
+
+MainOdom=================
+dt: 0.0502501
+delta_x: 0.000801147
+delta_y: -1.84771e-05
+delta_th: -0.000207427
+x: 0.12185
+y: -0.0009494
+th: -0.0232667
+
+
+MainOdom=================
+dt: 0.0497273
+delta_x: 0.000792809
+delta_y: -1.84494e-05
+delta_th: -0.000205269
+x: 0.122643
+y: -0.000967849
+th: -0.023472
+
+
+MainOdom=================
+dt: 0.0499968
+delta_x: 0.000797101
+delta_y: -1.8713e-05
+delta_th: -0.000206381
+x: 0.12344
+y: -0.000986562
+th: -0.0236783
+
+
+MainOdom=================
+dt: 0.0500031
+delta_x: 0.000797199
+delta_y: -1.88799e-05
+delta_th: -0.000206408
+x: 0.124237
+y: -0.00100544
+th: -0.0238847
+
+
+Encoder=========================
+ocorrência: 170
+currentT: 1475085808.308808475
+lastT: 1475085808.108812633
+ticks_x: 1260
+ticks_y: 1169
+_PreviousLeftEncoderCounts: 1227
+_PreviousRightEncoderCounts: 1141
+deltatime: 0.199996
+deltaLeft: 33
+deltaRight: 28
+vx: 0.230047
+vy: 0.195192
+
+MainOdom=================
+dt: 0.0503785
+delta_x: 0.00080313
+delta_y: -1.91862e-05
+delta_th: -0.000346574
+x: 0.12504
+y: -0.00102463
+th: -0.0242313
+
+
+MainOdom=================
+dt: 0.0496269
+delta_x: 0.000791141
+delta_y: -1.91741e-05
+delta_th: -0.000341404
+x: 0.125831
+y: -0.0010438
+th: -0.0245727
+
+
+MainOdom=================
+dt: 0.0499795
+delta_x: 0.000796757
+delta_y: -1.95824e-05
+delta_th: -0.00034383
+x: 0.126628
+y: -0.00106338
+th: -0.0249166
+
+
+MainOdom=================
+dt: 0.0500227
+delta_x: 0.000797438
+delta_y: -1.98735e-05
+delta_th: -0.000344127
+x: 0.127426
+y: -0.00108326
+th: -0.0252607
+
+
+Encoder=========================
+ocorrência: 171
+currentT: 1475085808.508811823
+lastT: 1475085808.308808475
+ticks_x: 1293
+ticks_y: 1198
+_PreviousLeftEncoderCounts: 1260
+_PreviousRightEncoderCounts: 1169
+deltatime: 0.200003
+deltaLeft: 33
+deltaRight: 29
+vx: 0.230039
+vy: 0.202155
+
+MainOdom=================
+dt: 0.0503973
+delta_x: 0.000816543
+delta_y: -2.06308e-05
+delta_th: -0.000277353
+x: 0.128242
+y: -0.00110389
+th: -0.025538
+
+
+MainOdom=================
+dt: 0.049597
+delta_x: 0.000803571
+delta_y: -2.05261e-05
+delta_th: -0.000272948
+x: 0.129046
+y: -0.00112442
+th: -0.025811
+
+
+MainOdom=================
+dt: 0.0499956
+delta_x: 0.000810022
+delta_y: -2.09121e-05
+delta_th: -0.000275142
+x: 0.129856
+y: -0.00114533
+th: -0.0260861
+
+
+MainOdom=================
+dt: 0.0500183
+delta_x: 0.000810384
+delta_y: -2.11446e-05
+delta_th: -0.000275267
+x: 0.130666
+y: -0.00116647
+th: -0.0263614
+
+
+Encoder=========================
+ocorrência: 172
+currentT: 1475085808.708814726
+lastT: 1475085808.508811823
+ticks_x: 1325
+ticks_y: 1225
+_PreviousLeftEncoderCounts: 1293
+_PreviousRightEncoderCounts: 1198
+deltatime: 0.200003
+deltaLeft: 32
+deltaRight: 27
+vx: 0.223068
+vy: 0.188214
+
+MainOdom=================
+dt: 0.0503397
+delta_x: 0.000776124
+delta_y: -2.04644e-05
+delta_th: -0.000346295
+x: 0.131442
+y: -0.00118694
+th: -0.0267077
+
+
+MainOdom=================
+dt: 0.0496531
+delta_x: 0.000765531
+delta_y: -2.04504e-05
+delta_th: -0.000341572
+x: 0.132208
+y: -0.00120739
+th: -0.0270493
+
+
+MainOdom=================
+dt: 0.0499746
+delta_x: 0.000770481
+delta_y: -2.0846e-05
+delta_th: -0.000343784
+x: 0.132978
+y: -0.00122823
+th: -0.027393
+
+
+MainOdom=================
+dt: 0.050026
+delta_x: 0.000771266
+delta_y: -2.11326e-05
+delta_th: -0.000344137
+x: 0.133749
+y: -0.00124937
+th: -0.0277372
+
+
+MainOdom=================
+dt: 0.0500013
+delta_x: 0.000770878
+delta_y: -2.13875e-05
+delta_th: -0.000343967
+x: 0.13452
+y: -0.00127075
+th: -0.0280811
+
+
+Encoder=========================
+ocorrência: 173
+currentT: 1475085808.958817171
+lastT: 1475085808.708814726
+ticks_x: 1358
+ticks_y: 1253
+_PreviousLeftEncoderCounts: 1325
+_PreviousRightEncoderCounts: 1225
+deltatime: 0.250002
+deltaLeft: 33
+deltaRight: 28
+vx: 0.184032
+vy: 0.156149
+
+MainOdom=================
+dt: 0.0502934
+delta_x: 0.000641329
+delta_y: -1.8014e-05
+delta_th: -0.000276782
+x: 0.135162
+y: -0.00128877
+th: -0.0283579
+
+
+MainOdom=================
+dt: 0.0496936
+delta_x: 0.000633676
+delta_y: -1.79746e-05
+delta_th: -0.000273482
+x: 0.135795
+y: -0.00130674
+th: -0.0286314
+
+
+MainOdom=================
+dt: 0.0500718
+delta_x: 0.000638494
+delta_y: -1.8286e-05
+delta_th: -0.000275563
+x: 0.136434
+y: -0.00132503
+th: -0.028907
+
+
+MainOdom=================
+dt: 0.0499129
+delta_x: 0.000636462
+delta_y: -1.84033e-05
+delta_th: -0.000274688
+x: 0.13707
+y: -0.00134343
+th: -0.0291817
+
+
+MainOdom=================
+dt: 0.0500159
+delta_x: 0.000637771
+delta_y: -1.86165e-05
+delta_th: -0.000275256
+x: 0.137708
+y: -0.00136205
+th: -0.0294569
+
+
+MainOdom=================
+dt: 0.0500092
+delta_x: 0.00063768
+delta_y: -1.87895e-05
+delta_th: -0.000275218
+x: 0.138346
+y: -0.00138084
+th: -0.0297321
+
+
+MainOdom=================
+dt: 0.0500028
+delta_x: 0.000637593
+delta_y: -1.89626e-05
+delta_th: -0.000275183
+x: 0.138983
+y: -0.0013998
+th: -0.0300073
+
+
+MainOdom=================
+dt: 0.0499993
+delta_x: 0.000637543
+delta_y: -1.91367e-05
+delta_th: -0.000275164
+x: 0.139621
+y: -0.00141894
+th: -0.0302825
+

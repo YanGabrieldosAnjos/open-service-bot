@@ -1,0 +1,3 @@
+Antes de dar 'catkin_make' instalar pacote Navigation
+
+$sudo apt-get install ros-indigo-navigation

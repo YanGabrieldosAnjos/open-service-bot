@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<sdf version='1.6'>
+  <model name='robocup_2019__forniture'>
+
+    <!-- robocup_2019 -->
+    <include>
+      <name>robocup_2019</name>
+      <uri>model://robocup_2019</uri>
+    </include>
+
+    <!-- table 1 -->
+    <include>
+      <name>table_1</name>
+      <uri>model://table</uri>
+      <pose frame="robocup_2019">4 -5 0 0 0 0</pose>
+    </include>
+
+    
+  <!-- bookshelf 1 -->
+    <include>
+      <name>bookshelf_1</name>
+      <uri>model://bookshelf</uri>
+      <pose frame="robocup_2019">-5.7 4.5 0 0 0 1.5707</pose>
+    </include>
+
+    <!-- bookshelf 1 -->
+    <include>
+      <name>box</name>
+      <uri>model://box</uri>
+      <pose frame="robocup_2019">0.8 0.7 0 0 0 1.6707</pose>
+    </include>
+
+    <!-- bookshelf 2 -->
+    <include>
+      <name>bookshelf_2</name>
+      <uri>model://bookshelf</uri>
+      <pose frame="robocup_2019">-4 -0.6 0 0 0 0</pose>
+    </include>
+
+    <!-- office clair 1 -->
+    <include>
+      <name>office_chair_1</name>
+      <uri>model://office_chair</uri>
+      <pose frame="robocup_2019">-2.5 -1.5 0 0 0 3.1415</pose>
+    </include>
+
+    <!-- office clair 2 -->
+    <include>
+      <name>office_chair_2</name>
+      <uri>model://office_chair</uri>
+      <pose frame="robocup_2019">4 -4.5 0 0 0 0</pose>
+    </include>
+
+    <!-- sofa 1 -->
+    <include>
+      <name>sofa_1</name>
+      <uri>model://sofa_set</uri>
+      <pose frame="robocup_2019">4.4 3 0 0 0 -1.5707</pose>
+    </include>
+
+    <!-- sofa 2 -->
+    <include>
+      <name>sofa_2</name>
+      <uri>model://sofa_set</uri>
+      <pose frame="robocup_2019">2.5 4.8 0 0 0 0</pose>
+    </include>
+
+    <!-- trash 1 -->
+    <!--<include>
+      <name>trash_1</name>
+      <uri>model://trash_bin</uri>
+      <pose frame="robocup_2019">2 0 0 0 0 0</pose>
+    </include> -->
+
+    <!-- trash 2   -->
+    <include>
+      <name>trash_2</name>
+      <uri>model://trash_bin</uri>
+      <pose frame="robocup_2019">0 -5 0 0 0 0</pose>
+    </include>
+
+
+  </model>
+</sdf>

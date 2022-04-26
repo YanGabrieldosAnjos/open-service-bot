@@ -1,0 +1,1274 @@
+ocorrência: 0
+
+currentT: 1474317933.485355439
+lastT: 0.000000000
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 1.47432e+09
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 1
+
+currentT: 1474317933.735335723
+lastT: 1474317933.485355439
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.24998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 2
+
+currentT: 1474317933.985331789
+lastT: 1474317933.735335723
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249996
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 3
+
+currentT: 1474317934.245341059
+lastT: 1474317933.985331789
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.260009
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 4
+
+currentT: 1474317934.495331979
+lastT: 1474317934.245341059
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249991
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 5
+
+currentT: 1474317934.745330325
+lastT: 1474317934.495331979
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 6
+
+currentT: 1474317934.995315596
+lastT: 1474317934.745330325
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249985
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 7
+
+currentT: 1474317935.245343949
+lastT: 1474317934.995315596
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250028
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 8
+
+currentT: 1474317935.505334849
+lastT: 1474317935.245343949
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.259991
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 9
+
+currentT: 1474317935.755333682
+lastT: 1474317935.505334849
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249999
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 10
+
+currentT: 1474317936.005331429
+lastT: 1474317935.755333682
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 11
+
+currentT: 1474317936.265351396
+lastT: 1474317936.005331429
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.26002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 12
+
+currentT: 1474317936.515335114
+lastT: 1474317936.265351396
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249984
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 13
+
+currentT: 1474317936.765339837
+lastT: 1474317936.515335114
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250005
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 14
+
+currentT: 1474317937.015336495
+lastT: 1474317936.765339837
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249997
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 15
+
+currentT: 1474317937.265333725
+lastT: 1474317937.015336495
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249997
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 16
+
+currentT: 1474317937.515334295
+lastT: 1474317937.265333725
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 17
+
+currentT: 1474317937.775335419
+lastT: 1474317937.515334295
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.260001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 18
+
+currentT: 1474317938.025347119
+lastT: 1474317937.775335419
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250012
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 19
+
+currentT: 1474317938.275331900
+lastT: 1474317938.025347119
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249985
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 20
+
+currentT: 1474317938.525371007
+lastT: 1474317938.275331900
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250039
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 21
+
+currentT: 1474317938.775327470
+lastT: 1474317938.525371007
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249956
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 22
+
+currentT: 1474317939.035346107
+lastT: 1474317938.775327470
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.260019
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 23
+
+currentT: 1474317939.285333020
+lastT: 1474317939.035346107
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249987
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 24
+
+currentT: 1474317939.535346539
+lastT: 1474317939.285333020
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250014
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 25
+
+currentT: 1474317939.795340805
+lastT: 1474317939.535346539
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.259994
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 26
+
+currentT: 1474317940.045331903
+lastT: 1474317939.795340805
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249991
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 27
+
+currentT: 1474317940.295333229
+lastT: 1474317940.045331903
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 28
+
+currentT: 1474317940.545331707
+lastT: 1474317940.295333229
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 29
+
+currentT: 1474317940.795322532
+lastT: 1474317940.545331707
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249991
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 30
+
+currentT: 1474317941.055331579
+lastT: 1474317940.795322532
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.260009
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 31
+
+currentT: 1474317941.305332866
+lastT: 1474317941.055331579
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250001
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 32
+
+currentT: 1474317941.555337161
+lastT: 1474317941.305332866
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250004
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 33
+
+currentT: 1474317941.805334321
+lastT: 1474317941.555337161
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249997
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 34
+
+currentT: 1474317942.065342728
+lastT: 1474317941.805334321
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.260008
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 35
+
+currentT: 1474317942.315346772
+lastT: 1474317942.065342728
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250004
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 36
+
+currentT: 1474317942.565331998
+lastT: 1474317942.315346772
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249985
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 37
+
+currentT: 1474317942.815334192
+lastT: 1474317942.565331998
+ticks_x: 0
+ticks_y: 0
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.250002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 38
+
+currentT: 1474317943.065332110
+lastT: 1474317942.815334192
+ticks_x: 164
+ticks_y: 126
+_PreviousLeftEncoderCounts: 0
+_PreviousRightEncoderCounts: 0
+deltatime: 0.249998
+deltaLeft: 164
+deltaRight: 126
+vx: 12.1947
+vy: 9.36909
+
+ocorrência: 39
+
+currentT: 1474317943.325339415
+lastT: 1474317943.065332110
+ticks_x: 164
+ticks_y: 126
+_PreviousLeftEncoderCounts: 164
+_PreviousRightEncoderCounts: 126
+deltatime: 0.260007
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 40
+
+currentT: 1474317943.575346003
+lastT: 1474317943.325339415
+ticks_x: 164
+ticks_y: 126
+_PreviousLeftEncoderCounts: 164
+_PreviousRightEncoderCounts: 126
+deltatime: 0.250007
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 41
+
+currentT: 1474317943.825335176
+lastT: 1474317943.575346003
+ticks_x: 164
+ticks_y: 126
+_PreviousLeftEncoderCounts: 164
+_PreviousRightEncoderCounts: 126
+deltatime: 0.249989
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 42
+
+currentT: 1474317944.075346024
+lastT: 1474317943.825335176
+ticks_x: 418
+ticks_y: 387
+_PreviousLeftEncoderCounts: 164
+_PreviousRightEncoderCounts: 126
+deltatime: 0.250011
+deltaLeft: 254
+deltaRight: 261
+vx: 18.8859
+vy: 19.4064
+
+ocorrência: 43
+
+currentT: 1474317944.325343806
+lastT: 1474317944.075346024
+ticks_x: 418
+ticks_y: 387
+_PreviousLeftEncoderCounts: 418
+_PreviousRightEncoderCounts: 387
+deltatime: 0.249998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 44
+
+currentT: 1474317944.585331020
+lastT: 1474317944.325343806
+ticks_x: 418
+ticks_y: 387
+_PreviousLeftEncoderCounts: 418
+_PreviousRightEncoderCounts: 387
+deltatime: 0.259987
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 45
+
+currentT: 1474317944.835332779
+lastT: 1474317944.585331020
+ticks_x: 418
+ticks_y: 387
+_PreviousLeftEncoderCounts: 418
+_PreviousRightEncoderCounts: 387
+deltatime: 0.250002
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 46
+
+currentT: 1474317945.085333740
+lastT: 1474317944.835332779
+ticks_x: 711
+ticks_y: 657
+_PreviousLeftEncoderCounts: 418
+_PreviousRightEncoderCounts: 387
+deltatime: 0.250001
+deltaLeft: 293
+deltaRight: 270
+vx: 21.7866
+vy: 20.0764
+
+ocorrência: 47
+
+currentT: 1474317945.345346334
+lastT: 1474317945.085333740
+ticks_x: 711
+ticks_y: 657
+_PreviousLeftEncoderCounts: 711
+_PreviousRightEncoderCounts: 657
+deltatime: 0.260013
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 48
+
+currentT: 1474317945.595381168
+lastT: 1474317945.345346334
+ticks_x: 711
+ticks_y: 657
+_PreviousLeftEncoderCounts: 711
+_PreviousRightEncoderCounts: 657
+deltatime: 0.250035
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 49
+
+currentT: 1474317945.845332300
+lastT: 1474317945.595381168
+ticks_x: 711
+ticks_y: 657
+_PreviousLeftEncoderCounts: 711
+_PreviousRightEncoderCounts: 657
+deltatime: 0.249951
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 50
+
+currentT: 1474317946.095331082
+lastT: 1474317945.845332300
+ticks_x: 987
+ticks_y: 898
+_PreviousLeftEncoderCounts: 711
+_PreviousRightEncoderCounts: 657
+deltatime: 0.249999
+deltaLeft: 276
+deltaRight: 241
+vx: 20.5227
+vy: 17.9202
+
+ocorrência: 51
+
+currentT: 1474317946.345345176
+lastT: 1474317946.095331082
+ticks_x: 987
+ticks_y: 898
+_PreviousLeftEncoderCounts: 987
+_PreviousRightEncoderCounts: 898
+deltatime: 0.250014
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 52
+
+currentT: 1474317946.605324813
+lastT: 1474317946.345345176
+ticks_x: 987
+ticks_y: 898
+_PreviousLeftEncoderCounts: 987
+_PreviousRightEncoderCounts: 898
+deltatime: 0.25998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 53
+
+currentT: 1474317946.855334082
+lastT: 1474317946.605324813
+ticks_x: 987
+ticks_y: 898
+_PreviousLeftEncoderCounts: 987
+_PreviousRightEncoderCounts: 898
+deltatime: 0.250009
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 54
+
+currentT: 1474317947.105335718
+lastT: 1474317946.855334082
+ticks_x: 1227
+ticks_y: 1149
+_PreviousLeftEncoderCounts: 987
+_PreviousRightEncoderCounts: 898
+deltatime: 0.250002
+deltaLeft: 240
+deltaRight: 251
+vx: 17.8456
+vy: 18.6635
+
+ocorrência: 55
+
+currentT: 1474317947.355324107
+lastT: 1474317947.105335718
+ticks_x: 1227
+ticks_y: 1149
+_PreviousLeftEncoderCounts: 1227
+_PreviousRightEncoderCounts: 1149
+deltatime: 0.249988
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 56
+
+currentT: 1474317947.605333417
+lastT: 1474317947.355324107
+ticks_x: 1227
+ticks_y: 1149
+_PreviousLeftEncoderCounts: 1227
+_PreviousRightEncoderCounts: 1149
+deltatime: 0.250009
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 57
+
+currentT: 1474317947.865347899
+lastT: 1474317947.605333417
+ticks_x: 1227
+ticks_y: 1149
+_PreviousLeftEncoderCounts: 1227
+_PreviousRightEncoderCounts: 1149
+deltatime: 0.260014
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 58
+
+currentT: 1474317948.115329639
+lastT: 1474317947.865347899
+ticks_x: 1475
+ticks_y: 1400
+_PreviousLeftEncoderCounts: 1227
+_PreviousRightEncoderCounts: 1149
+deltatime: 0.249982
+deltaLeft: 248
+deltaRight: 251
+vx: 18.4419
+vy: 18.665
+
+ocorrência: 59
+
+currentT: 1474317948.365333500
+lastT: 1474317948.115329639
+ticks_x: 1475
+ticks_y: 1400
+_PreviousLeftEncoderCounts: 1475
+_PreviousRightEncoderCounts: 1400
+deltatime: 0.250004
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 60
+
+currentT: 1474317948.625341864
+lastT: 1474317948.365333500
+ticks_x: 1475
+ticks_y: 1400
+_PreviousLeftEncoderCounts: 1475
+_PreviousRightEncoderCounts: 1400
+deltatime: 0.260008
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 61
+
+currentT: 1474317948.875334019
+lastT: 1474317948.625341864
+ticks_x: 1475
+ticks_y: 1400
+_PreviousLeftEncoderCounts: 1475
+_PreviousRightEncoderCounts: 1400
+deltatime: 0.249992
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 62
+
+currentT: 1474317949.125333607
+lastT: 1474317948.875334019
+ticks_x: 1749
+ticks_y: 1651
+_PreviousLeftEncoderCounts: 1475
+_PreviousRightEncoderCounts: 1400
+deltatime: 0.25
+deltaLeft: 274
+deltaRight: 251
+vx: 20.3739
+vy: 18.6637
+
+ocorrência: 63
+
+currentT: 1474317949.375332844
+lastT: 1474317949.125333607
+ticks_x: 1749
+ticks_y: 1651
+_PreviousLeftEncoderCounts: 1749
+_PreviousRightEncoderCounts: 1651
+deltatime: 0.249999
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 64
+
+currentT: 1474317949.635337910
+lastT: 1474317949.375332844
+ticks_x: 1749
+ticks_y: 1651
+_PreviousLeftEncoderCounts: 1749
+_PreviousRightEncoderCounts: 1651
+deltatime: 0.260005
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 65
+
+currentT: 1474317949.885334097
+lastT: 1474317949.635337910
+ticks_x: 1749
+ticks_y: 1651
+_PreviousLeftEncoderCounts: 1749
+_PreviousRightEncoderCounts: 1651
+deltatime: 0.249996
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 66
+
+currentT: 1474317950.135334450
+lastT: 1474317949.885334097
+ticks_x: 1997
+ticks_y: 1901
+_PreviousLeftEncoderCounts: 1749
+_PreviousRightEncoderCounts: 1651
+deltatime: 0.25
+deltaLeft: 248
+deltaRight: 250
+vx: 18.4406
+vy: 18.5893
+
+ocorrência: 67
+
+currentT: 1474317950.395374249
+lastT: 1474317950.135334450
+ticks_x: 1997
+ticks_y: 1901
+_PreviousLeftEncoderCounts: 1997
+_PreviousRightEncoderCounts: 1901
+deltatime: 0.26004
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 68
+
+currentT: 1474317950.645334778
+lastT: 1474317950.395374249
+ticks_x: 1997
+ticks_y: 1901
+_PreviousLeftEncoderCounts: 1997
+_PreviousRightEncoderCounts: 1901
+deltatime: 0.249961
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 69
+
+currentT: 1474317950.895332498
+lastT: 1474317950.645334778
+ticks_x: 1997
+ticks_y: 1901
+_PreviousLeftEncoderCounts: 1997
+_PreviousRightEncoderCounts: 1901
+deltatime: 0.249998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 70
+
+currentT: 1474317951.145332534
+lastT: 1474317950.895332498
+ticks_x: 2244
+ticks_y: 2152
+_PreviousLeftEncoderCounts: 1997
+_PreviousRightEncoderCounts: 1901
+deltatime: 0.25
+deltaLeft: 247
+deltaRight: 251
+vx: 18.3662
+vy: 18.6637
+
+ocorrência: 71
+
+currentT: 1474317951.395332276
+lastT: 1474317951.145332534
+ticks_x: 2244
+ticks_y: 2152
+_PreviousLeftEncoderCounts: 2244
+_PreviousRightEncoderCounts: 2152
+deltatime: 0.25
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 72
+
+currentT: 1474317951.655344038
+lastT: 1474317951.395332276
+ticks_x: 2244
+ticks_y: 2152
+_PreviousLeftEncoderCounts: 2244
+_PreviousRightEncoderCounts: 2152
+deltatime: 0.260012
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 73
+
+currentT: 1474317951.905337382
+lastT: 1474317951.655344038
+ticks_x: 2244
+ticks_y: 2152
+_PreviousLeftEncoderCounts: 2244
+_PreviousRightEncoderCounts: 2152
+deltatime: 0.249993
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 74
+
+currentT: 1474317952.155334826
+lastT: 1474317951.905337382
+ticks_x: 2510
+ticks_y: 2390
+_PreviousLeftEncoderCounts: 2244
+_PreviousRightEncoderCounts: 2152
+deltatime: 0.249997
+deltaLeft: 266
+deltaRight: 238
+vx: 19.7792
+vy: 17.6972
+
+ocorrência: 75
+
+currentT: 1474317952.405330557
+lastT: 1474317952.155334826
+ticks_x: 2510
+ticks_y: 2390
+_PreviousLeftEncoderCounts: 2510
+_PreviousRightEncoderCounts: 2390
+deltatime: 0.249996
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 76
+
+currentT: 1474317952.655334993
+lastT: 1474317952.405330557
+ticks_x: 2510
+ticks_y: 2390
+_PreviousLeftEncoderCounts: 2510
+_PreviousRightEncoderCounts: 2390
+deltatime: 0.250004
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 77
+
+currentT: 1474317952.915333959
+lastT: 1474317952.655334993
+ticks_x: 2510
+ticks_y: 2390
+_PreviousLeftEncoderCounts: 2510
+_PreviousRightEncoderCounts: 2390
+deltatime: 0.259999
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 78
+
+currentT: 1474317953.165333637
+lastT: 1474317952.915333959
+ticks_x: 2751
+ticks_y: 2640
+_PreviousLeftEncoderCounts: 2510
+_PreviousRightEncoderCounts: 2390
+deltatime: 0.25
+deltaLeft: 241
+deltaRight: 250
+vx: 17.9201
+vy: 18.5893
+
+ocorrência: 79
+
+currentT: 1474317953.415345587
+lastT: 1474317953.165333637
+ticks_x: 2751
+ticks_y: 2640
+_PreviousLeftEncoderCounts: 2751
+_PreviousRightEncoderCounts: 2640
+deltatime: 0.250012
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 80
+
+currentT: 1474317953.675344198
+lastT: 1474317953.415345587
+ticks_x: 2751
+ticks_y: 2640
+_PreviousLeftEncoderCounts: 2751
+_PreviousRightEncoderCounts: 2640
+deltatime: 0.259999
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 81
+
+currentT: 1474317953.925336339
+lastT: 1474317953.675344198
+ticks_x: 2751
+ticks_y: 2640
+_PreviousLeftEncoderCounts: 2751
+_PreviousRightEncoderCounts: 2640
+deltatime: 0.249992
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 82
+
+currentT: 1474317954.175310727
+lastT: 1474317953.925336339
+ticks_x: 2919
+ticks_y: 2839
+_PreviousLeftEncoderCounts: 2751
+_PreviousRightEncoderCounts: 2640
+deltatime: 0.249974
+deltaLeft: 168
+deltaRight: 199
+vx: 12.4933
+vy: 14.7986
+
+ocorrência: 83
+
+currentT: 1474317954.425332485
+lastT: 1474317954.175310727
+ticks_x: 2919
+ticks_y: 2839
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2839
+deltatime: 0.250022
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 84
+
+currentT: 1474317954.685356490
+lastT: 1474317954.425332485
+ticks_x: 2919
+ticks_y: 2839
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2839
+deltatime: 0.260024
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 85
+
+currentT: 1474317954.935336919
+lastT: 1474317954.685356490
+ticks_x: 2919
+ticks_y: 2839
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2839
+deltatime: 0.24998
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 86
+
+currentT: 1474317955.185336841
+lastT: 1474317954.935336919
+ticks_x: 2919
+ticks_y: 2844
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2839
+deltatime: 0.25
+deltaLeft: 0
+deltaRight: 5
+vx: 0
+vy: 0.371786
+
+ocorrência: 87
+
+currentT: 1474317955.445347651
+lastT: 1474317955.185336841
+ticks_x: 2919
+ticks_y: 2844
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2844
+deltatime: 0.260011
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 88
+
+currentT: 1474317955.695326976
+lastT: 1474317955.445347651
+ticks_x: 2919
+ticks_y: 2844
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2844
+deltatime: 0.249979
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 89
+
+currentT: 1474317955.945344789
+lastT: 1474317955.695326976
+ticks_x: 2919
+ticks_y: 2844
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2844
+deltatime: 0.250018
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+
+ocorrência: 90
+
+currentT: 1474317956.195332600
+lastT: 1474317955.945344789
+ticks_x: 2919
+ticks_y: 2844
+_PreviousLeftEncoderCounts: 2919
+_PreviousRightEncoderCounts: 2844
+deltatime: 0.249988
+deltaLeft: 0
+deltaRight: 0
+vx: 0
+vy: 0
+

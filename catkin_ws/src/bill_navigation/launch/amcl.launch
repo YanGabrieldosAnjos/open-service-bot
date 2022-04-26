@@ -1,0 +1,20 @@
+<launch>
+
+   <!-- Load the map_server /-->
+   <node name="map_server" pkg="map_server" type="map_server" args="$(find bill_navigation)/maps/newmap2.yaml "/>
+    
+   <!--include file="$(find bill_navigation)/launch/Componentes/bill_amcl.launch" /-->
+   <include file="$(find rbx1_nav)/launch/tb_amcl.launch" />
+ 
+
+    
+
+  <!-- Load the URDF/Xacro model of our robot -->
+  <arg name="urdf_file" default="$(find xacro)/xacro.py '$(find rbx1_description)/urdf/turtlebot.urdf.xacro'" />
+  <param name="robot_description" command="$(arg urdf_file)" />
+
+
+    
+   
+      
+</launch>
