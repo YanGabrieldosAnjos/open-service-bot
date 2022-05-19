@@ -1,4 +1,0 @@
-<launch>
-	
-	<include file="$(find bill_navigation)/launch/Componentes/bill_odometry_control.launch" />
-</launch>

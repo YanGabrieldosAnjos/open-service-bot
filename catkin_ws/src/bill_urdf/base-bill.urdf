@@ -130,6 +130,7 @@
 <xacro:joint_wheel name="joint_left_wheel" child="link_left_wheel" origin_xyz="0.0 -0.162 -0.060"/>
   
 
+</robot>
 
 <!-- haste 1 -->
 <link name="link_haste_1"> 
@@ -313,5 +314,3 @@
   <parent link="link_haste_2"/>
   <child link="devices_support"/>
 </joint>
-
-</robot>
