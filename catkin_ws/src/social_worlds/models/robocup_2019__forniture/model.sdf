@@ -65,8 +65,8 @@
       <pose frame="robocup_2019">2.5 4.8 0 0 0 0</pose>
     </include>
 
-    <!-- trash 1 -->
-    <!--<include>
+    <!-- 
+    <include>
       <name>trash_1</name>
       <uri>model://trash_bin</uri>
       <pose frame="robocup_2019">2 0 0 0 0 0</pose>

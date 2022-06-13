@@ -1,0 +1,9 @@
+<launch>
+	
+	<include file="$(find bill_navigation)/launch/bill_controller.launch" />
+	<include file="$(find rbx1_nav)/launch/tb_move_base_blank_map.launch" />
+	<include file="$(find bill_navigation)/launch/bill_odometry.launch" />
+	<node pkg="rviz" name="rviz" type="rviz" args="-d $(find rbx1_nav)/nav.rviz" />
+	<!--<node pkg="rosbag" name="rosbag_recorder_all"  type="record" args="-a home/Documentos"  output="screen"/>-->
+</launch>
+

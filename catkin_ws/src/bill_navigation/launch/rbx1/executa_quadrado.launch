@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="rbx1_nav" type="move_base_square.py" name="teste_quadrado" />
+</launch>

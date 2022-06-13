@@ -1,10 +1,9 @@
 <?xml version="1.0"?>
 <launch>
-  <arg name="model" default="$(find xacro)/xacro --inorder '$(find urdf_tutorial)/urdf/bill_urdf/base-bill.urdf'"/>
-  <arg name="urdf" default="$(find urdf_tutorial)/urdf/bill_urdf/base-bill.urdf"/>
-  <arg name="x_pos" default="0.0"/>
+  <arg name="model" default="$(find urdf_tutorial)/urdf/bill_urdf/base-bill.urdf"/>
+  <arg name="x_pos" default="2.0"/>
   <arg name="y_pos" default="0.0"/>
-  <arg name="z_pos" default="0.2"/>
+  <arg name="z_pos" default="0.1"/>
   <arg name="world_name" default="empty" />
   <arg name="enable_gui" default="true" />
   <arg name="paused" default="false" />
@@ -17,7 +16,7 @@
   <!-- ################################################## -->
 
   <param name="/use_sim_time" value="true"/>
-  <param name="gazebo/enable_ros_network" value="true" />
+  <param name="gazebo/enable_ros_network" value="true" /> 
 
   <env name="GAZEBO_MODEL_PATH" value="$GAZEBO_MODEL_PATH:$(find social_worlds)/models/:$(find social_worlds)/models/3dparty/"/>
   <node name="gazebo" pkg="gazebo_ros" type="gzserver" output="screen"
@@ -25,10 +24,9 @@
   </node>
   
   
-  
-  <param name="robot_description" command="$(arg model)" />
+  <param name="robot_description" command="$(find xacro)/xacro $(arg model)" />
 
-  <node pkg="gazebo_ros" type="spawn_model" name="spawn_urdf" args="-urdf -model turtlebot3_$(arg urdf) -x $(arg x_pos) -y $(arg y_pos) -z $(arg z_pos) -param robot_description" />
+  <node pkg="gazebo_ros" type="spawn_model" name="spawn_urdf" args="-urdf -model base-bill -x $(arg x_pos) -y $(arg y_pos) -z $(arg z_pos) -param robot_description" />
 
   <group if="$(arg enable_gui)" >
     <node name="gzclient" pkg="gazebo_ros" type="gzclient" output="screen"/>

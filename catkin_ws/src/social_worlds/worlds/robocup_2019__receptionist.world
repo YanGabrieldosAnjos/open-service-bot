@@ -26,14 +26,14 @@
     </include>
 
     <!-- @HOME 2019 - forniture -->
-     <include>
+    <include>
       <name>robocup_2019__receptionist</name>
       <uri>model://robocup_2019__forniture</uri>
       <pose>0 0 0.1 0 0 0</pose>
     </include>
 
-    <!-- Human 1 -->
-    <!--<actor name="human_1">
+    <!-- Human 1 
+    <actor name="human_1">
       <pose>3.9 3.5 1.05 0 0 1.5707</pose>
       <skin>
         <filename>sitting.dae</filename>
@@ -51,9 +51,8 @@
         </trajectory>
       </script>
       <plugin name="actor_control_1" filename="libactor_control.so"/>
-    </actor> -->
-
-    <!-- Human 2 
+    </actor>-->
+    <!-- Human 2 -->
 
     <actor name="human_2">
       <pose>2.7 -8 1.05 0 0 1.5707</pose>
@@ -99,8 +98,8 @@
       </script>
       <plugin name="actor_control_2" filename="libactor_control.so"/>
     </actor>
-	-->
-    <!-- Human 3 
+
+    <!-- Human 3 -->
     <actor name="human_3">
       <pose>2.7 -9 1.05 0 0 1.5707</pose>
       <skin>
@@ -191,11 +190,10 @@
           <waypoint>
             <time>20.0</time>
             <pose>0 0 0 0 0 3.14159</pose>
-          </waypoint> 
+          </waypoint> -->
         </trajectory>
       </script>
     </actor>
-		-->
 
     <!-- Sliding Door 1 -->
     <include>
