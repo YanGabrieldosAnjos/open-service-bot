@@ -16,14 +16,6 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
 )
 
-SET( ${PROJECT_NAME}_HDRS
-    ./include/bill_navigation/Robot.h
-)
-
-SET( ${PROJECT_NAME}_SRCS
-    ./src/Robot.cpp
-)
-
 include_directories(include/${PROJECT_NAME})
 include_directories(${catkin_INCLUDE_DIRS})
 
@@ -34,21 +26,6 @@ catkin_package(
 #  DEPENDS system_lib
 )
 
-
-
-add_executable(Robot_node src/Robot.cpp
-)
-
-add_executable(Odometry src/odometry.cpp
-)
-
-target_link_libraries(Robot_node
-  ${catkin_LIBRARIES}
-)
-
-target_link_libraries(Odometry
-  ${catkin_LIBRARIES}
-)
 
 include_directories(
   ${catkin_INCLUDE_DIRS}
